@@ -1,0 +1,195 @@
+Continent,Country,Sex,Life Expectancy
+Africa,Lesotho,Male,45.07
+Africa,Central African Republic,Male,48.19
+Africa,Eswatini,Male,50.25
+Africa,Lesotho,Female,50.58
+Africa,Mozambique,Male,52.42
+Africa,Central African Republic,Female,53.03
+Africa,Guinea-Bissau,Male,55.53
+Africa,Zimbabwe,Male,55.73
+Africa,Sierra Leone,Male,55.9
+Africa,Chad,Male,56.22
+Africa,Guinea,Male,57.28
+Africa,Cameroon,Male,57.29
+Africa,Botswana,Male,57.83
+Africa,Sierra Leone,Female,57.93
+Africa,Zambia,Male,57.93
+Africa,Côte d’Ivoire,Male,57.98
+Africa,Burkina Faso,Male,58.24
+Africa,Democratic Republic of the Congo,Male,58.25
+Africa,Eswatini,Female,58.71
+Africa,Angola,Male,59.13
+Africa,Togo,Male,59.24
+Africa,Namibia,Male,59.36
+Africa,Eritrea,Male,59.4
+Africa,Mozambique,Female,59.45
+Africa,Nigeria,Male,59.59
+Africa,Chad,Female,59.63
+Africa,Benin,Male,59.66
+Africa,Malawi,Male,59.67
+Africa,South Sudan,Male,59.8
+Africa,South Africa,Male,59.82
+Africa,Burundi,Male,59.84
+Africa,Guinea,Female,60.07
+Africa,Equatorial Guinea,Male,60.28
+Africa,Niger,Male,60.28
+Africa,Mali,Male,60.36
+Africa,Liberia,Male,60.65
+Africa,Guinea-Bissau,Female,60.81
+Africa,Uganda,Male,60.81
+Africa,Zimbabwe,Female,60.96
+Africa,Cameroon,Female,60.99
+Africa,Mali,Female,61.41
+Africa,Liberia,Female,61.68
+Africa,Kenya,Male,61.71
+Africa,Equatorial Guinea,Female,61.83
+Africa,Ghana,Male,61.97
+Africa,Gabon,Male,62.11
+Africa,Gambia,Male,62.18
+Africa,Congo,Male,62.56
+Africa,Democratic Republic of the Congo,Female,62.73
+Africa,Nigeria,Female,62.8
+Africa,Niger,Female,62.86
+Africa,Madagascar,Male,62.87
+Africa,Côte d’Ivoire,Female,62.96
+Africa,Zambia,Female,63.02
+Africa,United Republic of Tanzania,Male,63.38
+Africa,Burkina Faso,Female,63.45
+Africa,Congo,Female,63.59
+Africa,Botswana,Female,63.93
+Africa,Benin,Female,64.25
+Africa,Burundi,Female,64.26
+Africa,South Sudan,Female,64.3
+Africa,Angola,Female,64.5
+Africa,Togo,Female,64.83
+Africa,Ethiopia,Male,65.04
+Africa,Comoros,Male,65.07
+Africa,South Africa,Female,65.34
+Africa,Eritrea,Female,65.45
+Africa,Senegal,Male,65.46
+Africa,Rwanda,Male,65.47
+Africa,Madagascar,Female,65.5
+Europe,Turkmenistan,Male,65.66
+Europe,Russian Federation,Male,65.85
+Africa,Namibia,Female,66.22
+Africa,Gambia,Female,66.28
+Africa,Malawi,Female,66.47
+Africa,Kenya,Female,66.62
+Europe,Tajikistan,Male,66.69
+Africa,Mauritania,Male,67.19
+Europe,Republic of Moldova,Male,67.19
+Europe,Ukraine,Male,67.21
+Africa,United Republic of Tanzania,Female,67.26
+Africa,Ghana,Female,67.41
+Europe,Kazakhstan,Male,67.43
+Africa,Mauritania,Female,67.69
+Africa,Comoros,Female,67.84
+Europe,Kyrgyzstan,Male,67.92
+Europe,Azerbaijan,Male,67.94
+Africa,Sao Tome and Principe,Male,68.05
+Africa,Gabon,Female,68.09
+Africa,Uganda,Female,68.13
+Europe,Georgia,Male,68.24
+Europe,Belarus,Male,68.56
+Africa,Ethiopia,Female,68.64
+Africa,Senegal,Female,68.77
+Europe,Uzbekistan,Male,68.98
+Europe,Lithuania,Male,69.09
+Africa,Rwanda,Female,69.82
+Europe,Latvia,Male,69.93
+Africa,Seychelles,Male,69.95
+Europe,Tajikistan,Female,70.82
+Europe,Armenia,Male,70.88
+Africa,Mauritius,Male,70.96
+Africa,Sao Tome and Principe,Female,71.12
+Europe,Bulgaria,Male,71.17
+Europe,Romania,Male,71.28
+Europe,The former Yugoslav Republic of Macedonia,Male,71.67
+Europe,Hungary,Male,72.16
+Africa,Cabo Verde,Male,72.18
+Europe,Turkmenistan,Female,72.57
+Europe,Serbia,Male,72.69
+Europe,Montenegro,Male,72.83
+Europe,Estonia,Male,73.03
+Europe,Poland,Male,73.36
+Europe,Azerbaijan,Female,73.43
+Europe,Slovakia,Male,73.48
+Europe,Uzbekistan,Female,73.92
+Europe,Bosnia and Herzegovina,Male,73.94
+Europe,Croatia,Male,74.3
+Europe,Republic of Moldova,Female,75.05
+Europe,Kyrgyzstan,Female,75.28
+Europe,Türkiye,Male,75.39
+Europe,Czechia,Male,75.57
+Africa,Algeria,Male,75.65
+Europe,The former Yugoslav Republic of Macedonia,Female,75.87
+Europe,Albania,Male,76.1
+Europe,Kazakhstan,Female,76.22
+Europe,Russian Federation,Female,76.6
+Africa,Seychelles,Female,76.83
+Europe,Georgia,Female,76.93
+Europe,Ukraine,Female,76.96
+Africa,Mauritius,Female,77.43
+Africa,Algeria,Female,77.5
+Europe,Slovenia,Male,77.57
+Africa,Cabo Verde,Female,77.59
+Europe,Montenegro,Female,77.73
+Europe,Serbia,Female,77.76
+Europe,Armenia,Female,77.83
+Europe,Greece,Male,77.85
+Europe,Portugal,Male,77.92
+Europe,Bulgaria,Female,78.04
+Europe,Germany,Male,78.12
+Europe,Romania,Female,78.42
+Europe,Belgium,Male,78.48
+Europe,Finland,Male,78.53
+Europe,Austria,Male,78.6
+Europe,Bosnia and Herzegovina,Female,78.65
+Europe,Hungary,Female,78.73
+Europe,Belarus,Female,78.79
+Europe,Denmark,Male,78.8
+Europe,United Kingdom of Great Britain and Northern Ireland,Male,78.93
+Europe,France,Male,78.99
+Europe,Latvia,Female,79.29
+Europe,Ireland,Male,79.33
+Europe,Lithuania,Female,79.47
+Europe,Malta,Male,79.63
+Europe,Spain,Male,79.66
+Europe,Netherlands,Male,79.67
+Europe,Albania,Female,79.69
+Europe,Cyprus,Male,79.89
+Europe,Israel,Male,79.96
+Europe,Sweden,Male,79.97
+Europe,Italy,Male,80
+Europe,Türkiye,Female,80.06
+Europe,Luxembourg,Male,80.26
+Europe,Norway,Male,80.26
+Europe,Slovakia,Female,80.37
+Europe,Switzerland,Male,80.64
+Europe,Iceland,Male,80.69
+Europe,Croatia,Female,80.73
+Europe,Poland,Female,81.15
+Europe,Czechia,Female,81.3
+Europe,Estonia,Female,81.71
+Europe,United Kingdom of Great Britain and Northern Ireland,Female,82.34
+Europe,Denmark,Female,82.35
+Europe,Germany,Female,82.71
+Europe,Netherlands,Female,82.82
+Europe,Belgium,Female,82.86
+Europe,Ireland,Female,82.93
+Europe,Greece,Female,82.94
+Europe,Austria,Female,83.29
+Europe,Slovenia,Female,83.32
+Europe,Sweden,Female,83.5
+Europe,Iceland,Female,83.56
+Europe,Malta,Female,83.58
+Europe,Portugal,Female,83.67
+Europe,Norway,Female,83.71
+Europe,Israel,Female,83.79
+Europe,Finland,Female,83.85
+Europe,Cyprus,Female,84.12
+Europe,Italy,Female,84.26
+Europe,Luxembourg,Female,84.29
+Europe,Switzerland,Female,84.5
+Europe,France,Female,84.72
+Europe,Spain,Female,84.94
