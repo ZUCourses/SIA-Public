@@ -1,0 +1,201 @@
+Gender,Major,Ethnicity,Residence,Age,GPA,StudyHours,SATScore,FamilyIncome,Extracurriculars,SleepHours,PartTimeJobHours,SocialMediaUsage,SportsParticipation,DistanceFromHome,LibraryVisits,CourseLoad,FinalGrade,HappinessScore
+Male,Computer Science,Asian,On-Campus,19,3.22,15,1258,89546,8,7,18,1,Yes,84,6,Full-Time,185.76,75.33
+Female,Computer Science,Hispanic,Off-Campus,18,2.69,21,1138,46542,5,6,4,2,No,64,2,Part-Time,273.82,75.07
+Male,Mathematics,White,On-Campus,20,3.91,23,1517,72703,3,6,17,1,Yes,185,1,Part-Time,282.75,71.29
+Male,English,Black,On-Campus,19,3.66,23,1051,81455,5,6,14,2,Yes,80,7,Part-Time,293.85,69.42
+Male,English,Black,Off-Campus,21,3.03,28,1032,37127,5,7,2,2,No,90,2,Full-Time,329.09,70.20
+Male,Computer Science,Hispanic,Off-Campus,18,3.64,27,1295,76753,0,8,12,3,No,6,7,Part-Time,337.70,62.04
+Male,English,Hispanic,Off-Campus,21,3.48,26,1299,91954,4,7,1,0,Yes,122,4,Full-Time,304.44,57.94
+Female,English,Asian,On-Campus,21,3.34,21,1259,43793,7,6,15,1,Yes,19,0,Part-Time,246.60,69.65
+Female,Mathematics,White,On-Campus,18,3.40,12,1355,35908,9,5,15,0,No,68,0,Part-Time,158.55,55.46
+Male,English,Black,Off-Campus,18,2.76,14,1230,71190,5,6,14,2,Yes,133,3,Full-Time,177.65,67.22
+Female,Mathematics,White,On-Campus,19,3.76,18,1240,59757,6,5,2,2,Yes,107,7,Part-Time,232.53,58.84
+Female,Mathematics,Asian,Off-Campus,20,3.88,10,1056,62321,4,6,13,3,Yes,154,9,Part-Time,190.72,59.96
+Male,Computer Science,Asian,On-Campus,21,2.75,21,1334,43725,5,8,1,3,Yes,104,3,Full-Time,283.80,78.51
+Female,English,Hispanic,On-Campus,21,3.63,13,1424,60138,9,8,8,2,No,95,4,Full-Time,187.12,77.12
+Male,Computer Science,Hispanic,On-Campus,18,3.97,12,1345,43082,6,7,11,1,No,18,2,Full-Time,182.79,56.76
+Female,Computer Science,Black,Off-Campus,20,3.98,15,1416,37686,3,8,16,1,No,9,9,Part-Time,221.05,87.38
+Male,Mathematics,Hispanic,Off-Campus,21,3.68,10,1283,53207,4,5,7,0,Yes,162,8,Part-Time,190.08,69.99
+Female,Computer Science,Black,Off-Campus,18,3.14,26,1435,67590,2,7,10,3,Yes,159,7,Full-Time,333.66,67.57
+Female,Computer Science,Black,Off-Campus,19,2.69,12,1173,61996,7,8,7,0,No,167,2,Part-Time,187.09,55.62
+Male,English,Asian,On-Campus,19,2.86,28,1347,53071,1,6,0,0,No,17,2,Full-Time,347.64,66.43
+Male,Mathematics,White,Off-Campus,22,2.68,12,1187,68082,1,8,18,2,No,177,5,Part-Time,176.59,72.84
+Male,Computer Science,Hispanic,On-Campus,22,3.83,18,1423,50088,7,7,3,0,Yes,128,6,Full-Time,261.81,84.26
+Female,Computer Science,Hispanic,Off-Campus,19,3.33,27,1097,35008,1,8,19,2,Yes,175,4,Full-Time,345.93,64.21
+Female,Mathematics,Black,On-Campus,18,3.33,10,1009,40707,2,5,14,3,Yes,177,0,Part-Time,145.19,54.18
+Female,English,Asian,On-Campus,18,3.07,20,1230,49486,0,5,12,0,No,120,5,Full-Time,230.55,89.51
+Male,Computer Science,Hispanic,On-Campus,22,2.54,10,1048,31942,7,5,17,0,No,164,8,Full-Time,160.93,83.35
+Female,Computer Science,Hispanic,Off-Campus,20,3.50,28,1334,98284,4,5,4,2,Yes,101,0,Part-Time,333.51,85.30
+Male,English,White,On-Campus,19,2.74,15,1171,68643,3,5,11,3,No,117,5,Part-Time,199.70,77.45
+Male,Computer Science,Hispanic,Off-Campus,20,3.28,14,1499,33318,5,7,15,3,Yes,137,3,Full-Time,165.68,74.96
+Male,English,Hispanic,Off-Campus,22,3.33,27,1509,31684,5,8,17,0,Yes,164,9,Full-Time,338.19,78.82
+Male,English,Hispanic,Off-Campus,20,3.54,22,1166,92906,4,7,0,2,No,71,9,Full-Time,259.46,82.80
+Female,English,Asian,On-Campus,18,2.92,24,1473,97285,9,8,19,0,Yes,194,3,Part-Time,324.16,56.27
+Female,Computer Science,Hispanic,On-Campus,21,3.13,29,1363,79860,9,5,13,0,No,66,8,Full-Time,337.24,73.97
+Female,Computer Science,White,Off-Campus,21,3.34,25,1128,83568,7,6,0,2,No,119,9,Part-Time,322.47,57.51
+Male,English,Black,On-Campus,20,3.03,14,1085,92640,4,6,19,3,Yes,76,2,Full-Time,185.86,96.63
+Male,English,Asian,Off-Campus,21,3.04,28,1598,54475,9,6,3,2,Yes,140,6,Part-Time,337.93,83.52
+Female,English,Hispanic,On-Campus,20,2.74,18,1472,98866,8,8,17,1,No,42,6,Full-Time,232.94,70.70
+Male,Computer Science,White,Off-Campus,19,2.83,29,1380,86927,9,8,6,1,No,132,8,Part-Time,345.68,87.46
+Male,Computer Science,White,Off-Campus,22,3.04,20,1065,82028,1,7,15,1,Yes,164,8,Part-Time,267.50,66.95
+Female,English,Black,Off-Campus,20,2.66,16,1185,37819,2,7,17,2,No,183,7,Full-Time,219.21,89.01
+Male,English,White,Off-Campus,18,3.84,28,1145,82789,1,8,0,0,Yes,124,8,Part-Time,353.90,51.90
+Female,Mathematics,White,On-Campus,22,3.16,18,1570,45907,2,5,3,3,Yes,167,0,Part-Time,263.81,59.78
+Male,Mathematics,White,Off-Campus,18,3.63,10,1518,67972,2,5,17,2,No,5,7,Full-Time,160.14,68.61
+Female,English,Asian,On-Campus,21,3.20,10,1169,82313,1,5,1,3,No,55,2,Part-Time,161.55,69.60
+Female,Computer Science,Hispanic,On-Campus,19,2.87,17,1193,89693,5,6,10,2,Yes,154,3,Full-Time,243.97,63.43
+Female,English,White,On-Campus,21,3.14,27,1354,53361,5,7,4,1,Yes,56,6,Full-Time,329.37,67.16
+Male,English,Hispanic,Off-Campus,19,3.88,11,1442,48568,6,6,10,3,Yes,185,9,Part-Time,158.38,80.27
+Male,Computer Science,White,On-Campus,20,4.00,25,1431,72021,5,7,5,0,Yes,177,9,Part-Time,325.06,80.35
+Male,Computer Science,Black,Off-Campus,22,3.40,16,1076,83672,0,5,1,3,No,142,2,Full-Time,228.63,69.08
+Male,English,Hispanic,On-Campus,18,3.47,10,1323,62113,3,5,0,0,No,141,4,Full-Time,150.80,53.56
+Female,English,White,Off-Campus,20,3.80,18,1150,61667,1,5,11,0,Yes,24,1,Part-Time,237.65,89.74
+Female,Computer Science,Asian,Off-Campus,18,3.88,21,1145,64128,6,6,1,0,Yes,82,3,Full-Time,277.80,72.65
+Male,English,White,On-Campus,19,3.10,21,1124,58628,0,5,8,1,Yes,128,1,Full-Time,293.16,66.38
+Male,Mathematics,Hispanic,On-Campus,18,2.92,26,1332,58797,8,5,10,3,No,141,3,Full-Time,304.85,62.71
+Female,Mathematics,Asian,Off-Campus,21,3.57,26,1263,50948,6,6,9,0,No,175,2,Part-Time,331.77,80.52
+Male,Mathematics,White,On-Campus,18,3.47,20,1069,33178,5,5,5,2,Yes,184,8,Full-Time,236.75,65.62
+Female,Mathematics,Black,On-Campus,19,3.24,28,1023,77675,6,5,19,3,Yes,160,7,Part-Time,345.56,50.51
+Male,Computer Science,Black,Off-Campus,18,3.74,18,1379,85474,7,6,12,3,No,40,9,Part-Time,288.57,60.02
+Male,Mathematics,Asian,Off-Campus,22,3.82,19,1275,69042,7,8,4,2,No,24,8,Full-Time,253.42,69.81
+Female,Mathematics,Asian,Off-Campus,19,3.56,20,1140,77251,3,7,10,1,No,113,1,Full-Time,282.40,67.43
+Male,Mathematics,White,Off-Campus,22,2.92,29,1117,33184,3,5,1,3,No,146,8,Full-Time,357.60,82.55
+Female,Computer Science,White,Off-Campus,20,3.42,21,1185,84644,7,5,6,2,Yes,14,0,Full-Time,239.32,62.34
+Male,English,Black,On-Campus,22,3.17,16,1161,30277,3,6,18,1,No,32,8,Full-Time,225.62,73.44
+Female,Computer Science,Asian,On-Campus,20,3.98,27,1516,33543,0,8,13,1,Yes,90,4,Full-Time,337.46,94.49
+Male,Computer Science,Hispanic,Off-Campus,19,3.58,24,1463,46816,5,6,1,2,No,69,8,Full-Time,296.00,75.98
+Male,Computer Science,Black,Off-Campus,18,3.79,15,1425,86907,8,8,16,0,No,194,8,Full-Time,214.97,69.98
+Male,Mathematics,White,Off-Campus,19,3.19,26,1105,77778,8,6,10,0,Yes,96,3,Full-Time,334.28,62.92
+Male,Computer Science,Black,On-Campus,21,2.68,14,1158,60669,3,6,2,2,No,2,7,Part-Time,191.62,89.27
+Female,Mathematics,White,Off-Campus,19,2.84,24,1118,33486,9,8,13,2,No,63,5,Part-Time,328.03,58.16
+Male,English,White,On-Campus,19,3.67,25,1215,69462,5,8,15,0,Yes,188,5,Full-Time,326.65,65.64
+Male,English,Asian,Off-Campus,21,3.69,28,1398,38673,5,7,6,3,No,105,8,Full-Time,336.61,85.04
+Female,Mathematics,White,Off-Campus,21,3.35,12,1251,64895,9,6,10,0,No,135,1,Full-Time,188.62,73.84
+Female,Mathematics,Asian,On-Campus,19,3.03,12,1019,67056,3,5,3,0,No,15,2,Part-Time,153.11,54.15
+Female,English,Asian,On-Campus,21,3.34,24,1369,34493,1,5,7,2,No,48,2,Full-Time,314.82,64.53
+Female,Computer Science,Asian,On-Campus,19,2.75,25,1411,70949,2,8,11,3,Yes,87,6,Full-Time,307.25,49.34
+Male,Computer Science,Black,On-Campus,19,3.56,17,1512,39402,3,7,13,0,Yes,91,4,Part-Time,242.99,83.86
+Male,Computer Science,Hispanic,On-Campus,21,2.79,15,1570,52572,3,6,6,1,No,77,0,Part-Time,226.16,68.47
+Male,Computer Science,White,Off-Campus,20,2.96,14,1474,37386,7,7,14,0,Yes,92,7,Part-Time,200.12,75.62
+Male,Computer Science,Black,On-Campus,21,3.01,24,1350,34060,8,8,17,2,No,91,4,Full-Time,274.46,83.29
+Female,English,Black,On-Campus,18,2.51,25,1479,90737,5,8,2,0,No,30,3,Full-Time,319.88,67.95
+Female,English,Hispanic,Off-Campus,20,3.13,23,1339,38504,1,8,13,3,No,130,3,Part-Time,293.42,56.69
+Male,Computer Science,Asian,On-Campus,18,3.75,26,1258,53127,0,7,5,2,No,94,1,Part-Time,305.80,54.12
+Male,English,Asian,On-Campus,21,2.76,16,1143,75818,4,5,17,2,No,195,0,Part-Time,237.50,75.98
+Male,Mathematics,Black,On-Campus,21,3.08,14,1302,31047,4,5,0,1,No,55,5,Full-Time,190.45,75.58
+Male,Computer Science,Asian,On-Campus,19,3.69,23,1065,79809,1,5,2,1,Yes,150,2,Part-Time,299.88,76.37
+Female,Mathematics,Black,Off-Campus,18,3.30,17,1036,88727,0,7,2,2,No,93,8,Part-Time,256.32,85.87
+Male,Computer Science,Black,Off-Campus,21,3.15,23,1212,50500,1,6,1,1,Yes,14,3,Full-Time,326.01,68.73
+Female,Computer Science,Asian,Off-Campus,21,3.19,11,1386,48386,6,7,6,1,Yes,143,1,Part-Time,186.86,78.66
+Female,English,White,Off-Campus,21,3.78,24,1316,76657,2,5,8,1,No,178,3,Full-Time,295.18,75.36
+Male,Computer Science,Asian,On-Campus,18,2.61,12,1347,97280,0,8,10,3,No,14,3,Part-Time,168.97,72.02
+Female,English,Asian,On-Campus,21,3.18,13,1472,65303,8,8,7,2,No,113,0,Part-Time,185.93,80.96
+Female,Mathematics,Asian,On-Campus,22,3.62,11,1523,65954,9,5,10,1,Yes,162,7,Part-Time,155.92,81.56
+Female,English,Asian,Off-Campus,22,3.44,12,1377,54630,8,6,13,0,Yes,131,3,Part-Time,164.94,67.20
+Male,Computer Science,Hispanic,Off-Campus,21,2.63,24,1402,66803,3,8,9,3,No,44,3,Part-Time,304.31,73.13
+Female,Computer Science,Asian,On-Campus,20,3.61,12,1523,59769,5,6,0,0,No,17,6,Full-Time,183.70,82.37
+Female,Mathematics,White,Off-Campus,18,3.29,18,1111,55898,1,8,8,1,Yes,176,1,Part-Time,242.97,65.52
+Female,Computer Science,White,On-Campus,19,3.39,18,1150,50365,4,5,17,0,Yes,35,5,Full-Time,238.91,75.60
+Male,Mathematics,Hispanic,On-Campus,20,3.35,13,1233,55354,1,7,18,3,Yes,161,5,Part-Time,201.91,69.60
+Male,English,White,On-Campus,22,3.84,29,1482,83726,5,7,15,2,No,101,6,Full-Time,352.73,52.02
+Male,Mathematics,White,On-Campus,18,2.88,20,1136,77262,5,6,11,2,No,62,1,Full-Time,259.61,76.17
+Female,Computer Science,Black,Off-Campus,19,2.99,19,1212,66345,4,5,9,1,Yes,61,6,Part-Time,247.88,87.51
+Male,Computer Science,White,On-Campus,22,3.50,19,1528,72328,9,8,7,2,Yes,55,1,Full-Time,250.24,75.73
+Male,English,Black,On-Campus,21,3.69,13,1001,89049,3,6,4,1,Yes,17,1,Full-Time,208.01,62.20
+Female,Mathematics,Asian,On-Campus,21,2.70,26,1330,41917,2,5,12,0,Yes,186,0,Full-Time,299.69,73.77
+Female,Mathematics,Hispanic,On-Campus,19,3.06,20,1196,57920,3,7,10,3,Yes,128,8,Part-Time,230.89,72.90
+Female,Mathematics,White,On-Campus,18,3.51,24,1161,83573,2,7,18,1,No,73,8,Part-Time,320.61,81.76
+Male,Computer Science,Asian,Off-Campus,19,3.44,21,1241,63028,7,7,0,3,Yes,137,4,Full-Time,254.49,78.23
+Female,Mathematics,Asian,Off-Campus,19,3.50,16,1249,31874,3,6,0,1,No,75,6,Part-Time,226.44,77.05
+Female,Computer Science,Black,On-Campus,20,2.82,22,1484,69850,2,7,18,2,No,30,9,Part-Time,275.33,86.54
+Male,Mathematics,Black,On-Campus,21,3.91,12,1095,62959,5,6,11,0,No,18,6,Full-Time,195.49,78.70
+Male,Computer Science,Asian,On-Campus,21,3.79,23,1393,44242,2,8,0,3,Yes,176,2,Part-Time,316.69,81.83
+Female,English,Hispanic,On-Campus,22,3.55,12,1486,69223,1,7,7,2,Yes,111,1,Part-Time,169.09,70.52
+Female,English,Black,Off-Campus,20,3.18,22,1076,70190,8,7,12,2,No,101,3,Full-Time,299.10,69.43
+Male,English,White,Off-Campus,21,3.31,15,1130,88572,1,7,15,0,Yes,142,7,Full-Time,189.88,83.75
+Female,Mathematics,Black,On-Campus,20,3.35,20,1201,63773,7,7,0,2,No,193,0,Part-Time,276.28,84.44
+Female,Computer Science,White,Off-Campus,18,2.85,20,1130,72445,8,8,15,2,No,8,7,Full-Time,260.25,52.09
+Female,Mathematics,Black,On-Campus,20,3.33,13,1078,36922,3,6,11,0,No,139,1,Full-Time,200.93,72.62
+Female,Mathematics,Hispanic,On-Campus,21,3.75,27,1062,99698,1,8,17,0,Yes,175,9,Full-Time,324.38,69.68
+Female,English,Hispanic,On-Campus,19,3.58,11,1456,72248,2,5,10,3,No,92,7,Full-Time,191.61,84.74
+Female,Mathematics,Hispanic,Off-Campus,18,2.70,14,1436,33982,5,8,16,1,No,33,1,Full-Time,217.30,81.10
+Female,English,White,On-Campus,18,3.06,12,1015,73014,1,6,15,2,Yes,165,6,Part-Time,172.59,69.45
+Male,Computer Science,White,Off-Campus,21,2.89,12,1471,90447,4,5,10,2,Yes,74,2,Full-Time,173.06,99.12
+Female,Mathematics,Black,On-Campus,20,3.00,19,1211,45773,0,7,2,3,Yes,119,5,Full-Time,258.08,63.11
+Female,English,White,Off-Campus,19,3.70,21,1157,30282,9,7,14,2,Yes,179,6,Full-Time,265.54,75.71
+Female,English,Black,On-Campus,21,3.95,14,1268,85858,4,7,18,2,No,68,5,Full-Time,207.42,76.16
+Female,Mathematics,Black,On-Campus,18,2.58,21,1195,67076,8,5,4,0,Yes,149,4,Full-Time,277.96,58.02
+Male,English,White,Off-Campus,18,3.19,24,1134,38855,3,6,11,2,No,80,8,Full-Time,302.69,51.25
+Male,Computer Science,Hispanic,Off-Campus,18,2.90,22,1439,74566,6,5,7,2,Yes,49,8,Part-Time,262.25,70.64
+Male,Mathematics,Hispanic,On-Campus,18,3.31,12,1561,34669,1,7,12,1,Yes,137,2,Full-Time,191.22,54.28
+Female,Computer Science,Hispanic,Off-Campus,18,3.63,14,1483,50776,6,7,19,0,No,169,6,Part-Time,209.07,71.80
+Female,Mathematics,White,On-Campus,20,3.89,21,1212,77390,7,7,14,0,No,41,1,Part-Time,268.23,70.04
+Male,Computer Science,Black,On-Campus,19,2.98,15,1029,71986,2,5,8,1,No,66,0,Part-Time,223.02,73.55
+Male,English,Black,On-Campus,20,3.82,13,1038,33412,4,5,16,2,No,31,9,Part-Time,159.79,67.67
+Female,English,Black,On-Campus,19,2.76,23,1345,67651,6,6,13,2,No,176,3,Full-Time,303.47,68.61
+Female,English,Asian,On-Campus,20,3.34,24,1338,89291,6,7,0,1,No,191,2,Part-Time,281.41,64.50
+Male,English,Asian,On-Campus,21,3.09,14,1525,85204,7,5,5,1,No,54,3,Part-Time,192.53,73.48
+Male,English,Hispanic,Off-Campus,18,3.76,17,1438,38964,5,5,19,2,No,178,2,Full-Time,221.62,87.15
+Male,English,White,Off-Campus,21,3.95,11,1039,72639,6,8,14,3,No,101,9,Full-Time,164.71,67.51
+Female,Computer Science,White,On-Campus,19,2.56,11,1313,88975,3,7,3,2,Yes,127,8,Part-Time,198.53,65.06
+Male,Mathematics,Hispanic,Off-Campus,19,2.52,17,1542,60213,3,7,18,2,Yes,77,3,Full-Time,226.37,94.09
+Female,Mathematics,Black,Off-Campus,22,3.17,20,1254,44397,3,5,14,3,No,153,3,Part-Time,265.95,65.69
+Female,Computer Science,White,On-Campus,18,3.01,26,1096,45377,5,8,0,0,No,194,6,Part-Time,305.84,83.05
+Male,Computer Science,Hispanic,Off-Campus,18,3.52,28,1584,92798,0,7,14,3,No,98,3,Full-Time,341.30,73.43
+Male,English,Hispanic,Off-Campus,19,3.45,15,1321,33970,8,7,19,3,No,95,8,Full-Time,195.30,67.80
+Female,English,White,On-Campus,22,3.75,19,1125,67877,0,7,0,3,No,40,8,Full-Time,264.31,65.09
+Male,Computer Science,Black,Off-Campus,18,2.79,11,1454,75546,3,5,17,1,No,42,8,Part-Time,188.87,65.96
+Female,Computer Science,White,On-Campus,18,3.01,24,1068,58641,6,5,6,2,No,181,5,Part-Time,315.63,58.48
+Female,English,White,Off-Campus,21,3.27,23,1207,61838,1,6,9,0,Yes,45,9,Full-Time,303.06,74.51
+Female,Mathematics,Black,Off-Campus,20,2.72,22,1205,52528,2,6,2,0,No,92,8,Full-Time,300.77,72.07
+Female,Computer Science,Hispanic,Off-Campus,22,2.91,26,1443,30069,0,7,1,0,No,63,2,Full-Time,330.08,75.95
+Male,English,Asian,On-Campus,19,3.03,20,1456,89199,6,8,15,3,Yes,93,1,Full-Time,260.42,64.69
+Female,Computer Science,Black,Off-Campus,20,3.70,11,1517,37746,8,7,14,2,Yes,127,9,Part-Time,143.82,64.69
+Male,English,Asian,On-Campus,21,2.85,25,1428,72829,8,8,3,1,Yes,158,1,Part-Time,294.99,72.78
+Female,English,Hispanic,Off-Campus,19,3.42,11,1431,87650,6,5,3,1,No,123,6,Part-Time,202.66,75.41
+Male,Computer Science,Hispanic,Off-Campus,19,3.76,29,1374,59300,0,6,10,2,No,161,9,Full-Time,356.20,67.42
+Male,Computer Science,White,On-Campus,21,3.80,17,1257,82522,9,5,11,1,No,61,4,Part-Time,211.38,64.98
+Female,Computer Science,Black,On-Campus,18,3.38,13,1570,30951,1,8,18,3,Yes,73,3,Part-Time,194.02,67.43
+Female,Computer Science,White,Off-Campus,18,2.62,19,1548,46196,4,8,2,0,Yes,174,1,Full-Time,260.60,63.11
+Male,Computer Science,Asian,On-Campus,20,3.99,21,1297,56446,2,6,12,2,Yes,189,3,Part-Time,291.30,61.62
+Female,Computer Science,White,Off-Campus,22,3.51,15,1489,42998,8,5,11,2,Yes,182,9,Full-Time,207.90,61.18
+Female,Computer Science,White,Off-Campus,18,3.47,20,1210,58247,8,7,5,0,No,36,5,Part-Time,282.46,59.90
+Female,Computer Science,Hispanic,Off-Campus,22,3.07,14,1106,75819,3,5,9,1,No,115,5,Full-Time,193.98,61.11
+Male,Computer Science,Asian,Off-Campus,19,3.28,29,1171,71619,9,8,2,2,Yes,39,7,Part-Time,351.08,71.08
+Female,Computer Science,Hispanic,Off-Campus,21,3.69,24,1208,33065,9,5,6,2,Yes,92,5,Part-Time,274.62,55.80
+Female,Computer Science,Hispanic,Off-Campus,20,2.56,22,1319,99584,7,6,18,0,No,157,4,Full-Time,263.89,84.96
+Female,English,Asian,On-Campus,18,3.29,14,1003,52818,6,5,19,0,Yes,13,6,Full-Time,179.15,77.41
+Female,English,Hispanic,On-Campus,20,2.54,15,1185,39032,1,5,15,1,No,141,2,Part-Time,196.00,94.17
+Male,Computer Science,White,On-Campus,22,3.16,10,1156,53669,8,8,6,1,No,166,3,Part-Time,157.92,51.20
+Male,Computer Science,Asian,On-Campus,21,3.99,25,1322,89270,2,7,2,3,No,163,5,Full-Time,292.62,82.22
+Female,Computer Science,White,Off-Campus,22,3.01,26,1472,82783,9,7,7,1,No,180,8,Full-Time,319.01,79.75
+Female,Mathematics,White,Off-Campus,20,3.74,10,1365,93486,0,6,13,1,No,27,5,Part-Time,175.39,75.43
+Male,English,White,On-Campus,19,2.73,26,1468,99841,4,6,7,0,Yes,192,3,Full-Time,315.89,69.63
+Male,Mathematics,White,Off-Campus,19,3.95,11,1077,63569,8,5,3,3,Yes,58,7,Part-Time,186.47,80.42
+Female,English,Asian,Off-Campus,22,3.35,17,1486,60346,4,7,6,3,Yes,187,4,Full-Time,242.56,75.49
+Male,Mathematics,Black,Off-Campus,21,2.98,10,1423,61731,5,6,14,2,No,77,4,Part-Time,167.71,75.20
+Male,English,White,Off-Campus,22,2.75,11,1464,84122,3,7,12,0,Yes,166,7,Part-Time,172.78,63.70
+Male,Mathematics,Hispanic,On-Campus,18,2.65,22,1418,52812,8,8,18,2,Yes,28,8,Part-Time,300.99,76.03
+Female,Mathematics,Black,Off-Campus,21,3.70,23,1186,79402,6,6,4,1,Yes,105,3,Full-Time,279.65,72.22
+Male,English,Asian,Off-Campus,21,2.59,12,1502,85681,7,7,14,2,No,103,7,Part-Time,193.48,57.45
+Female,English,Hispanic,Off-Campus,22,2.96,21,1530,93032,3,7,11,1,No,186,7,Part-Time,252.62,87.22
+Female,English,White,Off-Campus,21,3.35,28,1017,31814,4,7,3,1,Yes,170,2,Full-Time,326.35,78.63
+Male,Computer Science,Hispanic,On-Campus,19,3.64,18,1350,87443,0,8,14,3,Yes,40,3,Full-Time,261.12,76.56
+Male,English,Asian,Off-Campus,20,3.59,13,1302,41358,7,5,18,3,Yes,193,1,Part-Time,158.42,85.00
+Male,Computer Science,Asian,Off-Campus,19,2.51,14,1153,86190,0,6,14,0,Yes,194,4,Full-Time,184.92,56.63
+Female,Mathematics,Hispanic,Off-Campus,21,3.91,14,1296,86664,5,7,10,0,No,65,5,Full-Time,205.97,73.59
+Male,Mathematics,Asian,On-Campus,20,2.68,21,1121,33235,4,7,17,2,No,120,5,Full-Time,274.12,80.01
+Male,English,Black,On-Campus,18,3.94,22,1592,70200,1,6,9,2,No,155,1,Full-Time,275.13,73.18
+Female,English,White,Off-Campus,22,2.63,20,1145,87251,7,6,15,1,Yes,123,3,Full-Time,241.13,58.34
+Male,Computer Science,Hispanic,On-Campus,21,2.81,12,1203,87288,4,8,14,1,Yes,52,1,Full-Time,182.05,69.30
+Male,English,White,On-Campus,22,3.52,20,1341,52397,2,5,6,3,Yes,164,9,Full-Time,262.97,74.08
+Female,Computer Science,Asian,On-Campus,20,3.39,26,1548,87408,2,7,0,2,No,94,4,Full-Time,322.08,83.19
+Male,English,White,Off-Campus,22,3.03,19,1044,78666,5,6,7,0,No,3,9,Part-Time,243.57,77.32
+Male,Computer Science,White,Off-Campus,21,3.17,24,1394,54222,6,5,9,0,Yes,53,1,Part-Time,300.08,69.11
+Female,Mathematics,Black,Off-Campus,21,3.93,26,1140,74754,1,5,6,3,No,196,8,Part-Time,316.66,72.01
+Male,Computer Science,White,Off-Campus,19,3.41,21,1566,89680,6,5,10,1,Yes,174,9,Part-Time,271.14,66.28
+Male,Computer Science,Black,Off-Campus,22,3.30,13,1344,42677,1,5,10,0,Yes,197,0,Part-Time,217.12,78.51
+Male,Computer Science,Asian,On-Campus,22,3.77,16,1567,48713,8,7,17,2,No,164,5,Part-Time,235.56,70.35
+Male,English,Asian,On-Campus,19,3.55,22,1129,61411,5,5,17,2,Yes,75,8,Full-Time,283.91,53.42
+Female,English,Black,On-Campus,19,3.29,23,1368,59109,3,7,19,1,Yes,195,2,Full-Time,294.27,62.27
+Male,English,Hispanic,On-Campus,22,3.18,20,1262,40321,4,6,2,3,No,162,9,Full-Time,236.18,81.46
