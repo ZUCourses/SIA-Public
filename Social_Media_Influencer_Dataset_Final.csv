@@ -1,0 +1,501 @@
+Gender,Educational Degree Level,Major,Most Active Platform,Account Type,Type of Content,Age,Monthly Average Number of Posts Created,Avg Time Spent on Platform (minutes/day),Monthly Average Number of Likes Given,Monthly Average Number of Comments Received,Monthly Average Number of Shares,Monthly Average Number of Views,Number of Followers,Engagement Rate (%),Income in USD
+Male,None,Science,YouTube,Business,Fashion & Beauty,33,29,305,1569,418,154,745446,165690,3.508238663,73799
+Female,High School,Science,TikTok,Business,Travel,28,26,143,956,283,113,553647,74741,2.499868009,53996
+Male,PhD,Business,Instagram,Personal,Education,35,11,162,434,164,45,298124,61733,1.6843873,21700
+Female,None,Engineering,Instagram,Influencer,Education,42,13,116,492,177,61,354644,69986,1.892237783,26320
+Male,Bachelor's,Other,Twitter,Personal,Gaming,28,13,197,825,296,89,400034,102420,2.066689671,44940
+Male,PhD,Arts,Instagram,Business,Education,28,13,68,404,132,70,287728,61251,1.71965901,24415
+Female,Bachelor's,Engineering,TikTok,Influencer,Travel,42,49,370,2255,805,238,1017081,245473,4.63503736,119881
+Female,Master's,Business,YouTube,Influencer,Gaming,36,37,268,1750,593,151,756675,144382,3.618323855,82175
+Female,Bachelor's,Business,YouTube,Business,Education,26,11,76,484,111,20,293729,49615,1.654922642,26550
+Female,PhD,Science,Pinterest,Business,Art (Drawing),34,34,211,1470,392,150,605117,116870,2.980359351,65671
+Female,Master's,Engineering,YouTube,Business,Art (Drawing),26,31,162,1011,328,105,521113,103850,2.699472391,50570
+Male,PhD,Science,Twitter,Business,Art (Drawing),26,21,179,1076,299,108,575584,126566,2.981822159,71161
+Male,PhD,Arts,TikTok,Business,Art (Drawing),31,24,122,877,264,65,388274,92906,2.125793593,32409
+Female,Master's,Science,Pinterest,Business,Art (Drawing),14,7,90,211,0,45,106922,15396,1.188581366,10000
+Female,Bachelor's,Arts,Twitter,Influencer,Gaming,16,24,101,1072,265,136,504325,126398,2.470440409,43000
+Male,High School,Business,Twitter,Business,Fashion & Beauty,25,30,172,786,252,79,445997,58493,2.35304209,53813
+Male,High School,Science,Twitter,Business,Fashion & Beauty,21,37,349,1752,574,200,837951,231940,4.055406915,88825
+Female,High School,Science,Instagram,Influencer,Gaming,32,16,143,842,243,30,409604,67466,2.198430409,43992
+Female,High School,Other,Twitter,Personal,Gaming,22,6,88,0,52,0,148668,20956,1.098480112,10000
+Male,None,Business,Instagram,Business,Travel,18,39,325,1410,600,181,748723,157243,3.631785889,78979
+Female,High School,Other,YouTube,Influencer,Fashion & Beauty,41,35,269,1447,297,118,651210,176006,3.267952742,58452
+Male,Master's,Arts,Instagram,Influencer,Art (Drawing),28,60,279,2099,633,215,871463,207998,4.333490245,127710
+Male,High School,Arts,Twitter,Personal,Gaming,30,38,178,1292,245,112,468734,96135,2.631868158,49936
+Female,PhD,Business,TikTok,Business,Art (Drawing),18,14,173,599,250,64,321856,55733,1.884383728,23754
+Male,High School,Arts,TikTok,Business,Fashion & Beauty,25,39,153,1376,360,127,626791,109648,3.17748084,54504
+Male,Bachelor's,Business,YouTube,Business,Education,30,29,233,1322,414,174,687866,137666,3.380335605,80489
+Male,Master's,Arts,Twitter,Influencer,Education,20,47,294,1998,509,166,744460,191147,3.811611695,93014
+Female,Master's,Engineering,Instagram,Business,Gaming,33,32,255,1252,407,149,746574,129507,3.559861984,89206
+Male,None,Science,TikTok,Business,Travel,25,41,207,1537,522,130,687234,146300,3.325863677,72218
+Female,PhD,Engineering,Pinterest,Business,Art (Drawing),27,0,50,0,9,0,117382,15838,0.949368711,10000
+Male,Master's,Business,Twitter,Business,Gaming,25,39,221,1237,316,135,527622,75629,2.802227182,52662
+Male,Bachelor's,Business,Twitter,Personal,Travel,44,11,0,0,57,11,97774,1000,0.908594698,10000
+Male,High School,Engineering,Pinterest,Personal,Art (Drawing),29,40,185,1888,423,194,699491,155328,3.492129901,85310
+Male,Master's,Science,TikTok,Personal,Fashion & Beauty,21,8,179,401,108,89,328058,67769,2.024993837,28189
+Male,Bachelor's,Science,Pinterest,Business,Education,36,14,113,490,122,42,302103,39084,1.665503416,17477
+Female,High School,Other,YouTube,Business,Travel,20,26,125,396,133,101,379323,41376,1.99136595,38307
+Female,None,Arts,Instagram,Influencer,Art (Drawing),31,38,150,1343,448,149,713553,173215,3.429831885,82991
+Male,Master's,Other,Instagram,Influencer,Gaming,14,9,91,1064,282,40,425267,72614,2.494965297,55473
+Female,Master's,Science,TikTok,Influencer,Art (Drawing),19,16,102,289,0,37,224812,23796,1.506245879,11180
+Female,Bachelor's,Engineering,Pinterest,Business,Gaming,31,12,85,0,79,0,157153,4985,1.112853038,10000
+Male,PhD,Arts,Twitter,Personal,Education,35,20,122,1171,400,109,519627,146021,2.552849951,39417
+Female,None,Engineering,Twitter,Personal,Education,31,14,107,511,211,80,465297,76718,2.336168245,40073
+Female,PhD,Other,Twitter,Personal,Art (Drawing),29,38,341,1413,475,127,657375,135986,3.272293829,65948
+Female,Master's,Business,YouTube,Business,Art (Drawing),27,11,145,508,283,43,387626,84576,2.123227931,15219
+Female,PhD,Engineering,YouTube,Personal,Gaming,18,30,290,1538,446,175,672474,147170,3.28189757,73518
+Male,High School,Other,Twitter,Influencer,Gaming,24,26,260,1260,354,130,546022,111441,2.935155884,51223
+Female,None,Other,TikTok,Influencer,Travel,26,2,0,0,0,0,43635,1000,0.702829483,10000
+Male,PhD,Other,YouTube,Personal,Travel,38,25,245,838,324,73,520880,90003,2.587097274,50389
+Male,High School,Business,YouTube,Influencer,Travel,32,35,254,1778,379,147,725432,166261,3.655690762,89224
+Female,Bachelor's,Business,Instagram,Personal,Art (Drawing),15,41,348,2233,574,228,906688,182691,4.323241413,125814
+Male,PhD,Business,Instagram,Personal,Travel,32,13,70,490,238,77,351582,83086,1.917416047,19770
+Female,None,Arts,TikTok,Influencer,Art (Drawing),26,17,162,442,146,46,322746,54020,1.946656863,41788
+Male,High School,Business,YouTube,Influencer,Education,24,34,331,1425,369,156,627503,144856,3.210930837,82789
+Female,PhD,Business,YouTube,Influencer,Fashion & Beauty,34,19,158,909,304,69,430930,80246,2.163008085,30770
+Female,Bachelor's,Business,Pinterest,Influencer,Education,38,15,53,525,184,40,276124,25058,1.776784691,26325
+Male,PhD,Engineering,TikTok,Personal,Art (Drawing),37,28,204,995,343,100,498413,124728,2.703171197,45527
+Female,High School,Business,TikTok,Influencer,Art (Drawing),23,17,93,585,222,96,424520,80896,2.236877085,41527
+Female,PhD,Arts,Pinterest,Influencer,Fashion & Beauty,27,17,242,645,388,80,432996,105190,2.437957142,45601
+Female,None,Other,Pinterest,Business,Gaming,32,42,300,2151,681,187,888177,166072,4.242222843,86542
+Female,Master's,Engineering,Instagram,Influencer,Gaming,37,35,276,1450,519,132,620790,133145,3.151829082,62050
+Male,High School,Science,TikTok,Influencer,Gaming,26,28,223,478,98,71,376212,53867,2.006566142,26409
+Male,High School,Business,TikTok,Personal,Travel,28,19,245,1203,195,98,510174,134730,2.964444898,73097
+Male,High School,Other,Pinterest,Personal,Gaming,21,4,122,56,69,0,37737,9214,0.751222645,10000
+Female,High School,Other,Twitter,Business,Travel,20,38,263,1498,527,151,771827,156053,3.713892234,83424
+Male,PhD,Engineering,Twitter,Influencer,Travel,36,27,249,946,392,114,541236,120854,2.776292333,57813
+Female,None,Science,Instagram,Influencer,Gaming,40,9,156,955,147,71,424489,92344,2.194924072,31020
+Female,Bachelor's,Arts,Twitter,Influencer,Gaming,29,24,95,740,172,81,351112,53400,2.180566965,34247
+Female,None,Other,Twitter,Influencer,Fashion & Beauty,38,30,171,1429,524,151,677722,149655,3.378505383,86236
+Male,High School,Other,Twitter,Influencer,Fashion & Beauty,32,22,70,679,167,76,344199,54769,1.980495673,38221
+Male,PhD,Other,YouTube,Influencer,Travel,24,19,125,827,172,89,445801,89563,2.426642921,35136
+Male,PhD,Other,Instagram,Business,Fashion & Beauty,32,37,183,830,337,114,563789,164135,3.001369673,70654
+Male,High School,Engineering,Pinterest,Influencer,Travel,42,0,30,0,0,0,22752,1000,0.659785853,10000
+Female,PhD,Science,Twitter,Influencer,Art (Drawing),29,31,150,1616,508,146,610906,131312,3.175222682,71697
+Male,High School,Other,YouTube,Influencer,Travel,42,7,139,300,0,58,233573,33077,1.435403428,30594
+Male,None,Arts,Twitter,Business,Travel,9,42,339,2231,672,171,1024894,218756,4.518837271,125893
+Male,Master's,Arts,YouTube,Influencer,Fashion & Beauty,36,11,177,689,221,34,389900,59785,1.985149317,10000
+Male,PhD,Business,Instagram,Business,Art (Drawing),30,12,91,739,106,39,336527,78489,1.981305076,34744
+Female,High School,Other,Twitter,Personal,Education,27,28,301,1846,502,165,768355,188238,3.511225764,83048
+Male,High School,Other,YouTube,Influencer,Education,30,16,142,672,74,62,397553,46410,1.972624614,30183
+Male,PhD,Other,TikTok,Business,Education,14,34,183,1048,361,116,562637,85954,2.951177115,45043
+Male,Bachelor's,Other,TikTok,Personal,Art (Drawing),28,32,201,1049,430,111,559975,124381,2.944936472,75139
+Female,High School,Other,YouTube,Business,Gaming,32,43,288,1691,398,170,622018,136495,3.485956379,65937
+Male,PhD,Arts,Twitter,Business,Art (Drawing),41,32,140,1076,263,97,420307,71494,2.179613178,32194
+Male,High School,Science,Twitter,Personal,Fashion & Beauty,25,28,214,1067,250,140,598009,104950,2.867974183,52740
+Male,Bachelor's,Science,Instagram,Influencer,Travel,23,42,285,1933,551,189,870639,159845,3.974781221,105656
+Female,Master's,Business,Instagram,Influencer,Travel,25,23,263,1313,443,114,610905,91957,2.964477148,52714
+Female,Bachelor's,Arts,Pinterest,Business,Fashion & Beauty,37,14,112,651,294,93,390111,85131,2.324596621,35890
+Male,None,Other,Instagram,Personal,Fashion & Beauty,32,17,146,447,132,65,348788,51419,1.922545461,19395
+Male,PhD,Science,Twitter,Influencer,Travel,25,14,122,297,142,62,186479,65475,1.636253879,11564
+Female,Bachelor's,Engineering,Pinterest,Business,Gaming,34,25,185,600,280,79,453073,94367,2.451003491,24874
+Female,Master's,Engineering,Instagram,Personal,Gaming,30,30,103,1092,245,96,455384,72430,2.352973309,37450
+Female,High School,Engineering,YouTube,Business,Gaming,37,3,60,0,0,6,79185,1000,0.741078988,10000
+Female,PhD,Other,TikTok,Personal,Fashion & Beauty,24,30,225,1515,341,120,578826,112412,3.025068085,61375
+Female,Bachelor's,Other,Instagram,Influencer,Travel,27,32,313,1268,357,149,638743,152343,3.149702683,70230
+Male,Master's,Business,Instagram,Influencer,Travel,26,13,32,104,69,43,176950,16214,1.474141613,11012
+Male,Bachelor's,Business,YouTube,Business,Travel,18,6,20,122,29,2,189403,1000,1.175704791,10000
+Male,None,Business,Twitter,Influencer,Art (Drawing),32,23,198,1049,239,135,490468,100497,2.483667074,44805
+Male,PhD,Engineering,YouTube,Influencer,Art (Drawing),32,26,284,1597,324,154,729241,191357,3.618978246,79857
+Female,High School,Other,Instagram,Personal,Education,30,22,177,1066,406,120,451101,90047,2.600247823,55155
+Female,Master's,Engineering,Twitter,Influencer,Art (Drawing),28,19,142,523,173,67,384387,104894,2.255673168,44250
+Female,Bachelor's,Business,Pinterest,Personal,Gaming,18,2,82,190,20,30,191027,16977,1.23869702,10000
+Female,PhD,Other,Instagram,Personal,Gaming,26,33,305,1825,418,146,768114,162742,3.656913726,91462
+Female,Bachelor's,Arts,YouTube,Business,Gaming,27,12,144,607,275,84,354201,110688,2.143327254,42056
+Male,PhD,Science,Pinterest,Personal,Gaming,23,11,154,392,129,51,347938,33820,1.842345986,30024
+Male,None,Science,TikTok,Influencer,Education,28,21,88,424,166,30,360913,77994,1.914025441,34909
+Male,Bachelor's,Business,Pinterest,Personal,Gaming,33,12,68,713,197,58,318999,53266,1.842703436,27048
+Male,None,Engineering,YouTube,Personal,Fashion & Beauty,45,23,121,934,295,97,397312,79591,2.231047259,44204
+Male,Master's,Arts,Pinterest,Business,Fashion & Beauty,31,23,89,885,227,54,414028,66692,2.448327663,41024
+Female,None,Other,YouTube,Influencer,Fashion & Beauty,32,19,208,1135,254,117,567986,139851,2.886232465,63189
+Female,PhD,Engineering,Instagram,Influencer,Art (Drawing),29,27,141,1695,445,81,669011,156448,3.199681042,75863
+Female,Master's,Business,Twitter,Influencer,Travel,14,28,269,1272,531,146,616629,125059,3.092386109,56036
+Female,Bachelor's,Engineering,TikTok,Personal,Education,29,10,93,315,91,47,218367,20426,1.358048206,10000
+Female,Bachelor's,Business,Twitter,Influencer,Fashion & Beauty,30,29,188,1092,275,135,543959,108057,2.878977678,61439
+Male,PhD,Science,Twitter,Influencer,Fashion & Beauty,49,31,147,1366,385,125,572772,95944,2.756287893,51076
+Male,High School,Science,Twitter,Personal,Gaming,28,34,251,1350,317,126,642006,115218,3.293413423,58377
+Male,High School,Engineering,YouTube,Business,Fashion & Beauty,32,52,271,2250,633,233,1063971,201804,4.816032916,126736
+Female,Bachelor's,Arts,YouTube,Business,Gaming,29,38,216,878,355,145,548410,110419,2.96457935,49322
+Female,PhD,Other,TikTok,Personal,Gaming,20,27,139,1033,289,79,495511,126284,2.519697172,51145
+Female,High School,Business,YouTube,Business,Travel,39,13,165,641,179,83,342470,48752,2.051128568,39198
+Female,None,Other,YouTube,Business,Art (Drawing),36,44,323,2139,594,201,824389,160539,3.965402032,88128
+Male,Bachelor's,Science,YouTube,Business,Gaming,36,21,112,912,286,76,360343,78099,2.186083039,19336
+Female,None,Arts,YouTube,Influencer,Gaming,22,13,228,818,253,57,359839,53151,2.110637566,44678
+Male,PhD,Arts,Instagram,Business,Travel,41,30,242,1604,482,150,647660,156486,3.428525947,83934
+Female,None,Other,TikTok,Influencer,Gaming,18,33,262,1436,339,149,594422,129843,3.031349371,77247
+Male,High School,Science,YouTube,Business,Education,34,48,268,1990,662,216,1001215,217667,4.257126816,117807
+Female,High School,Other,TikTok,Influencer,Art (Drawing),47,16,100,773,201,32,336866,63900,2.000359523,19083
+Female,Master's,Engineering,Pinterest,Personal,Education,22,31,243,1156,409,130,632098,138000,3.034859689,65585
+Male,Bachelor's,Arts,Instagram,Personal,Fashion & Beauty,25,44,292,2030,499,187,936587,216086,4.342100347,100850
+Male,PhD,Arts,YouTube,Business,Art (Drawing),30,14,90,655,273,77,346801,66648,2.100607381,12349
+Female,Bachelor's,Engineering,Instagram,Influencer,Fashion & Beauty,25,32,220,1172,344,107,609308,106874,3.028255736,61863
+Male,None,Science,Instagram,Personal,Gaming,17,20,184,944,260,66,553316,105178,2.481560459,38652
+Female,PhD,Arts,Pinterest,Personal,Travel,30,17,196,880,359,105,507133,101157,2.60549041,59411
+Female,PhD,Business,TikTok,Personal,Education,21,25,112,1090,173,74,416437,83465,2.482300562,52195
+Male,High School,Business,Instagram,Personal,Fashion & Beauty,33,40,255,1257,473,153,627557,129647,3.245158117,65340
+Female,None,Science,Twitter,Business,Gaming,22,32,178,887,371,106,607067,109212,2.714634164,49976
+Female,High School,Engineering,Pinterest,Influencer,Education,42,21,219,786,222,107,443680,112411,2.410702166,39261
+Male,High School,Other,Twitter,Personal,Education,23,20,231,703,243,39,520329,76487,2.44640586,51818
+Female,Master's,Science,Pinterest,Business,Fashion & Beauty,27,27,244,1207,350,135,614967,113081,3.014153706,76206
+Female,High School,Other,Twitter,Personal,Gaming,36,20,231,1510,348,146,621017,125582,3.049949767,61139
+Female,Bachelor's,Science,Twitter,Personal,Travel,20,31,142,609,246,95,275634,57289,2.006607399,26538
+Female,PhD,Business,Instagram,Personal,Fashion & Beauty,31,30,202,1352,416,97,637107,148981,3.062324409,68628
+Male,High School,Engineering,Instagram,Personal,Education,40,38,282,2068,529,203,904763,177678,4.154602242,124016
+Male,Bachelor's,Business,Pinterest,Business,Education,17,10,195,818,258,55,362276,80490,1.986674058,33709
+Male,None,Engineering,TikTok,Influencer,Art (Drawing),31,20,236,742,197,87,413115,69135,2.245556336,33639
+Female,PhD,Other,Instagram,Business,Gaming,32,9,52,226,214,33,146011,31690,1.161377376,10000
+Male,None,Science,Instagram,Business,Art (Drawing),36,21,172,1112,260,110,505963,94280,2.669134755,54719
+Male,Bachelor's,Arts,YouTube,Business,Travel,20,25,166,892,177,103,423966,87844,2.21368244,43310
+Male,None,Arts,Instagram,Personal,Fashion & Beauty,19,23,152,736,199,92,386148,93351,2.146753252,27473
+Female,None,Engineering,TikTok,Influencer,Education,34,29,232,1523,382,133,758193,144363,3.423322578,86285
+Male,None,Engineering,YouTube,Personal,Gaming,32,44,345,2206,661,195,1046637,249923,4.848238769,129420
+Male,High School,Business,Twitter,Business,Education,32,32,206,1575,413,147,604078,155573,3.2734928,68691
+Female,High School,Arts,Twitter,Personal,Art (Drawing),32,36,290,1220,523,141,726819,156140,3.424209071,82069
+Female,High School,Business,YouTube,Influencer,Art (Drawing),24,30,232,1323,317,56,550115,119525,2.690587806,48833
+Female,PhD,Other,YouTube,Influencer,Fashion & Beauty,31,22,133,1025,291,108,484586,96258,2.639350553,56000
+Female,Bachelor's,Arts,YouTube,Personal,Gaming,32,27,205,880,328,98,521638,113709,2.668901397,41408
+Female,High School,Other,Pinterest,Business,Gaming,24,33,167,1649,398,155,662990,144672,3.298763796,71515
+Female,None,Science,TikTok,Personal,Fashion & Beauty,44,16,82,483,140,47,302190,67126,1.835823595,32176
+Male,None,Business,TikTok,Business,Art (Drawing),33,45,390,2189,634,179,972858,221313,4.420566544,111577
+Male,None,Engineering,Twitter,Influencer,Art (Drawing),20,14,192,387,281,35,321335,30571,1.94792065,54000
+Female,None,Arts,Twitter,Personal,Art (Drawing),35,36,254,1195,466,133,578330,141295,3.265587015,70351
+Female,Master's,Business,Twitter,Influencer,Education,22,42,170,1205,411,139,625090,114100,2.985745928,65249
+Male,PhD,Engineering,Instagram,Business,Travel,36,9,152,281,177,37,260149,60715,1.801378225,12331
+Female,Bachelor's,Science,Twitter,Business,Art (Drawing),39,20,51,373,202,30,269928,62249,1.625810847,29083
+Female,Bachelor's,Arts,YouTube,Personal,Travel,23,0,78,0,7,16,35509,1000,0.650982398,10000
+Male,High School,Other,Twitter,Personal,Travel,37,36,180,1804,506,127,765353,157318,3.597484328,79946
+Female,Master's,Science,YouTube,Personal,Gaming,33,10,102,555,166,58,289165,58040,1.739955875,14088
+Female,Bachelor's,Engineering,Pinterest,Influencer,Fashion & Beauty,36,10,78,547,218,36,378876,66478,2.071442367,34632
+Male,PhD,Arts,Instagram,Business,Education,45,14,125,92,94,21,241741,42694,1.710335576,20481
+Male,None,Arts,Instagram,Business,Travel,28,40,196,1527,490,151,664571,128985,3.24619314,82597
+Male,High School,Science,TikTok,Influencer,Education,23,32,239,1130,387,150,727049,128945,3.388096487,92303
+Male,PhD,Arts,Pinterest,Personal,Gaming,22,14,163,741,250,78,516034,60678,2.109538194,26177
+Male,Bachelor's,Engineering,YouTube,Personal,Art (Drawing),23,29,167,693,210,89,431259,96030,2.285138777,40607
+Female,Master's,Science,Pinterest,Influencer,Travel,29,13,117,964,152,58,454784,82385,2.365473058,51518
+Female,High School,Other,Instagram,Business,Fashion & Beauty,32,15,85,139,93,20,199625,35107,1.393509743,37485
+Female,Bachelor's,Science,YouTube,Business,Gaming,32,29,217,1269,401,171,652382,153704,3.212776953,61665
+Female,High School,Science,Pinterest,Business,Education,36,19,100,493,122,18,304131,44002,1.691989523,21102
+Female,Bachelor's,Other,Instagram,Business,Art (Drawing),30,42,245,1592,400,147,632522,157946,3.292991,64239
+Male,None,Engineering,YouTube,Influencer,Education,41,17,103,1147,232,108,395336,71310,2.351456384,46094
+Female,Master's,Business,YouTube,Business,Fashion & Beauty,27,31,221,1547,469,170,672893,159511,3.475262171,66699
+Female,None,Business,Instagram,Influencer,Travel,51,10,27,922,160,51,439298,102327,2.258649013,34299
+Female,Bachelor's,Other,YouTube,Personal,Fashion & Beauty,35,22,191,1283,452,113,645408,133459,3.320777246,71040
+Female,PhD,Engineering,Instagram,Influencer,Education,23,16,187,814,160,72,464728,62180,2.227582019,33344
+Female,None,Arts,Twitter,Business,Education,21,16,94,368,88,79,317093,44028,1.642377172,14224
+Male,PhD,Other,Twitter,Personal,Fashion & Beauty,33,35,292,1668,529,124,718401,145265,3.42001073,82532
+Female,Bachelor's,Business,YouTube,Influencer,Fashion & Beauty,28,25,77,482,177,39,373076,51883,1.923829671,24617
+Female,Master's,Engineering,YouTube,Influencer,Fashion & Beauty,35,34,292,1111,330,139,702571,162428,3.264397042,78791
+Female,PhD,Science,Instagram,Influencer,Art (Drawing),33,23,195,1008,324,76,461978,120016,2.492905196,47389
+Female,Bachelor's,Engineering,YouTube,Personal,Education,29,19,23,282,140,76,314203,45156,1.767176816,23910
+Female,PhD,Engineering,TikTok,Influencer,Gaming,23,15,147,1216,244,100,523088,120969,2.616885096,50296
+Female,None,Business,Twitter,Business,Art (Drawing),17,29,281,1039,495,123,529172,132761,2.950987424,59755
+Male,Bachelor's,Business,YouTube,Personal,Art (Drawing),26,20,246,969,232,122,521944,118398,2.572101726,64071
+Female,None,Arts,YouTube,Personal,Art (Drawing),36,16,120,813,247,48,409155,69649,1.97684288,27422
+Male,High School,Arts,Pinterest,Influencer,Gaming,31,24,150,1546,361,140,602132,103983,2.95706774,64986
+Male,Bachelor's,Other,YouTube,Business,Fashion & Beauty,20,11,145,534,127,46,250768,79666,1.741602724,25613
+Female,PhD,Science,TikTok,Personal,Education,31,25,189,892,283,96,377827,84930,2.404845804,55737
+Female,High School,Arts,Twitter,Influencer,Travel,33,41,310,1841,502,178,900889,169505,4.066935219,110449
+Female,None,Business,Pinterest,Business,Travel,22,25,135,1044,270,131,533052,129076,2.784729994,57058
+Male,None,Engineering,Instagram,Influencer,Education,31,12,40,637,15,57,281177,42140,1.513518297,20340
+Female,PhD,Other,Instagram,Influencer,Gaming,30,31,117,1213,225,102,517807,103723,2.695742163,55655
+Female,High School,Arts,Twitter,Personal,Travel,20,29,218,1664,399,94,659572,143028,3.212961455,81626
+Female,Master's,Engineering,Instagram,Personal,Art (Drawing),32,37,255,1385,405,105,580245,150583,3.10264577,74893
+Male,PhD,Engineering,TikTok,Influencer,Travel,34,41,175,1198,451,180,643901,142928,3.230289542,81093
+Male,None,Arts,YouTube,Personal,Education,38,45,249,1495,444,138,762776,164319,3.551119389,87929
+Female,Bachelor's,Science,Twitter,Personal,Art (Drawing),38,27,280,1862,518,158,695158,157045,3.499618342,73802
+Male,High School,Science,Pinterest,Business,Travel,18,25,270,945,324,129,574892,128541,2.839537446,57301
+Female,Master's,Other,YouTube,Business,Education,22,32,191,1154,412,100,605899,90578,2.982195552,75829
+Male,Bachelor's,Science,Instagram,Influencer,Gaming,34,28,192,1095,367,137,530197,94125,2.917365015,54954
+Female,High School,Other,Instagram,Influencer,Education,34,35,283,1706,381,202,751603,176346,3.757049534,87652
+Male,PhD,Business,Pinterest,Influencer,Gaming,34,13,145,1095,121,76,486626,85647,2.468904406,48877
+Female,PhD,Arts,TikTok,Influencer,Art (Drawing),60,24,203,1014,253,89,551357,108495,2.718362159,40165
+Female,High School,Engineering,Pinterest,Business,Education,34,39,304,1720,483,131,638216,140974,3.260182392,71409
+Male,Master's,Other,Twitter,Personal,Fashion & Beauty,39,30,306,1554,520,158,667348,156696,3.443540355,81149
+Male,High School,Science,Pinterest,Business,Fashion & Beauty,37,16,215,791,48,71,306131,54434,1.807067428,31925
+Male,Bachelor's,Other,Instagram,Influencer,Fashion & Beauty,35,23,157,799,157,79,361461,89734,2.273272133,42810
+Male,Bachelor's,Other,TikTok,Influencer,Fashion & Beauty,27,13,95,277,211,32,321975,54660,1.843659564,28776
+Male,PhD,Science,TikTok,Business,Fashion & Beauty,36,12,115,435,142,49,268888,58857,1.652997652,18431
+Female,High School,Science,Pinterest,Business,Gaming,23,45,197,1579,476,160,723568,161458,3.513270038,81274
+Female,PhD,Arts,Twitter,Influencer,Education,28,34,234,1116,377,108,570956,114076,2.874920217,60858
+Male,Master's,Engineering,Instagram,Personal,Art (Drawing),26,31,220,1068,321,115,582617,102792,3.018742574,65169
+Female,Bachelor's,Arts,YouTube,Influencer,Fashion & Beauty,30,25,125,1184,315,97,506909,97097,2.548721122,49903
+Female,None,Arts,TikTok,Business,Fashion & Beauty,48,36,355,1969,654,211,925188,198627,4.260720004,112431
+Male,None,Science,Pinterest,Influencer,Art (Drawing),15,9,95,429,282,42,425681,92689,2.240311156,26766
+Female,High School,Science,Twitter,Influencer,Art (Drawing),35,30,221,953,155,73,439861,111025,2.378706872,34927
+Female,High School,Engineering,Twitter,Personal,Fashion & Beauty,17,31,111,1297,418,115,709494,150658,3.346411963,69195
+Male,None,Other,Instagram,Influencer,Gaming,26,29,230,1215,395,157,648129,139443,3.195111495,74157
+Male,High School,Arts,TikTok,Influencer,Art (Drawing),38,31,293,1366,414,128,677183,148320,3.37670431,74923
+Female,Bachelor's,Engineering,Instagram,Influencer,Education,30,23,90,1020,258,91,484566,73213,2.415429962,53578
+Male,Master's,Arts,YouTube,Business,Education,21,44,286,1803,525,186,792465,183479,3.849469471,88430
+Female,Master's,Other,YouTube,Business,Gaming,24,9,190,830,123,88,403351,93542,2.274272427,29578
+Male,PhD,Arts,YouTube,Personal,Travel,35,38,308,1817,495,146,872932,178076,3.852542084,112120
+Male,Bachelor's,Business,Twitter,Influencer,Gaming,24,38,197,1627,494,147,734143,167098,3.633932612,91155
+Male,High School,Engineering,TikTok,Business,Fashion & Beauty,31,18,161,1437,392,154,560111,152050,2.946888483,67127
+Male,High School,Science,Instagram,Personal,Travel,30,26,125,1200,389,93,534638,80645,2.728804302,49981
+Female,PhD,Arts,Instagram,Influencer,Fashion & Beauty,24,14,64,233,85,21,207369,7829,1.263898731,10000
+Male,PhD,Engineering,YouTube,Personal,Education,47,45,261,2062,493,198,866215,218952,4.248497094,106098
+Male,High School,Engineering,TikTok,Personal,Art (Drawing),35,12,165,350,105,68,307458,54009,1.76842393,10000
+Female,High School,Arts,TikTok,Personal,Fashion & Beauty,13,22,97,461,247,34,333868,50868,1.800791116,19237
+Female,Bachelor's,Science,Pinterest,Personal,Education,31,25,125,796,369,68,498987,104320,2.401070661,36805
+Female,PhD,Science,TikTok,Personal,Gaming,24,44,307,2537,665,236,1008577,226114,4.882701199,146207
+Female,Bachelor's,Arts,TikTok,Personal,Fashion & Beauty,36,40,281,1745,553,198,835503,182074,4.067290311,97399
+Male,High School,Engineering,Instagram,Personal,Education,23,17,118,729,351,85,393310,75070,2.054033762,34992
+Female,None,Science,TikTok,Influencer,Art (Drawing),29,17,136,1008,323,93,402822,53545,2.283072257,35854
+Male,None,Arts,TikTok,Influencer,Fashion & Beauty,34,26,156,865,200,96,444320,98682,2.376311712,27091
+Female,High School,Arts,Instagram,Personal,Education,36,27,199,1618,547,128,666119,167349,3.429006478,80157
+Male,PhD,Arts,TikTok,Influencer,Fashion & Beauty,20,13,73,106,0,6,96489,4718,0.846268159,10000
+Female,None,Engineering,Instagram,Personal,Art (Drawing),27,8,188,643,237,71,370665,81077,2.205426312,47097
+Male,PhD,Science,Pinterest,Influencer,Fashion & Beauty,26,37,250,1287,336,145,613437,78788,3.071102585,79427
+Male,None,Engineering,Twitter,Business,Fashion & Beauty,24,25,217,1173,204,89,412013,76275,2.352005979,45138
+Female,PhD,Business,Instagram,Personal,Education,44,24,73,1308,229,71,523195,100904,2.581136967,42735
+Male,None,Science,Instagram,Business,Travel,33,22,158,1066,509,118,632361,119037,3.026628251,61882
+Male,PhD,Engineering,TikTok,Personal,Fashion & Beauty,19,18,175,602,341,61,380757,75610,2.159731446,50921
+Male,Bachelor's,Science,Instagram,Personal,Travel,37,33,219,1321,437,149,665063,134917,3.341190877,76166
+Male,PhD,Business,YouTube,Business,Gaming,46,25,167,806,285,89,419256,85453,2.009219312,32983
+Female,Bachelor's,Other,YouTube,Business,Fashion & Beauty,38,11,78,194,92,0,168404,1000,1.341108621,17336
+Male,Bachelor's,Arts,Pinterest,Business,Travel,17,26,137,586,277,85,369617,62810,2.12006774,40881
+Male,High School,Engineering,Instagram,Personal,Gaming,26,30,185,1223,259,75,493926,150559,2.569907433,47209
+Female,Bachelor's,Business,TikTok,Business,Education,40,38,221,1117,292,121,560492,125114,2.777612964,56507
+Female,Master's,Business,TikTok,Business,Fashion & Beauty,24,27,167,1130,264,156,560072,120049,2.746269403,55515
+Female,Bachelor's,Science,Twitter,Influencer,Education,33,30,141,1331,342,115,593271,137466,3.203125171,78100
+Male,PhD,Science,Pinterest,Influencer,Gaming,36,44,328,1802,414,189,893455,181253,3.979453203,105306
+Male,Bachelor's,Arts,TikTok,Business,Education,22,45,358,1989,558,183,929498,220581,4.426351315,110652
+Female,PhD,Science,Twitter,Business,Education,29,26,143,1103,388,87,502501,62510,2.565142432,62792
+Male,PhD,Engineering,TikTok,Business,Art (Drawing),4,40,236,1402,549,119,725270,123645,3.50230546,83600
+Female,Master's,Engineering,Twitter,Business,Gaming,21,6,0,398,86,41,309883,45571,1.720997299,21256
+Male,Bachelor's,Engineering,YouTube,Influencer,Education,27,14,132,668,357,80,377632,70763,2.207447241,33154
+Female,Bachelor's,Other,YouTube,Personal,Travel,20,28,114,913,146,75,526215,85079,2.396815677,49330
+Male,None,Engineering,TikTok,Business,Gaming,43,49,247,2356,545,217,920443,215626,4.588931701,111476
+Female,None,Science,Pinterest,Business,Art (Drawing),18,21,280,1455,428,97,526081,108676,2.88774052,73296
+Male,High School,Science,Instagram,Influencer,Fashion & Beauty,26,27,204,1079,329,147,509265,113132,2.724790506,56984
+Female,PhD,Engineering,Pinterest,Business,Education,31,20,167,1148,353,133,635151,122702,3.087662267,76055
+Male,Master's,Business,Pinterest,Business,Travel,41,28,268,777,466,140,566527,102717,2.670202786,52238
+Male,None,Business,Instagram,Influencer,Art (Drawing),18,33,183,1518,519,146,754034,136499,3.563031295,71034
+Male,Bachelor's,Business,YouTube,Business,Gaming,39,10,76,275,115,39,196372,36334,1.359900756,10000
+Female,High School,Arts,YouTube,Business,Education,30,3,129,490,69,23,274599,23602,1.61214845,16401
+Male,Master's,Other,Instagram,Influencer,Art (Drawing),22,8,90,210,59,69,183631,32240,1.42525311,10000
+Male,Bachelor's,Engineering,Twitter,Personal,Art (Drawing),33,19,123,421,216,65,260415,52135,1.696738917,36404
+Male,Bachelor's,Arts,Pinterest,Business,Travel,31,21,172,634,194,79,370724,66978,2.194315249,40262
+Female,PhD,Business,TikTok,Business,Fashion & Beauty,25,18,226,785,229,77,454110,86210,2.279318089,44856
+Male,PhD,Engineering,YouTube,Personal,Fashion & Beauty,30,22,150,716,157,66,439287,74623,2.198758786,42138
+Female,None,Arts,TikTok,Influencer,Fashion & Beauty,26,25,180,708,250,128,446486,97026,2.435865582,31770
+Male,None,Science,Instagram,Personal,Gaming,30,23,190,957,254,120,505045,98459,2.495257727,53708
+Female,Bachelor's,Business,TikTok,Business,Art (Drawing),35,17,127,168,221,81,332145,58572,2.022239192,35886
+Female,Bachelor's,Arts,TikTok,Personal,Gaming,42,5,115,238,93,20,260959,24928,1.385793315,10000
+Male,None,Science,Pinterest,Influencer,Art (Drawing),20,19,239,1238,295,104,523382,107011,2.782408341,52556
+Female,None,Business,Instagram,Business,Travel,47,32,156,1065,350,100,562605,99208,2.682581903,70453
+Female,Bachelor's,Other,TikTok,Influencer,Travel,14,2,0,87,33,15,239550,26024,1.481327369,28460
+Male,Master's,Business,YouTube,Influencer,Gaming,28,21,145,628,164,106,431400,66837,2.016411761,31399
+Female,Bachelor's,Other,Instagram,Personal,Gaming,34,11,115,296,0,30,270496,25126,1.481759936,18836
+Female,Master's,Other,YouTube,Personal,Travel,32,22,103,788,193,87,465539,110256,2.448424135,50953
+Female,Master's,Other,Twitter,Influencer,Education,25,41,269,1382,375,176,741345,146259,3.565872142,83375
+Female,Bachelor's,Engineering,TikTok,Influencer,Fashion & Beauty,28,13,85,476,117,84,328263,66984,1.908962581,14690
+Male,High School,Engineering,Instagram,Business,Fashion & Beauty,26,38,206,893,187,106,499717,109096,2.486179135,46251
+Female,None,Other,YouTube,Influencer,Travel,25,25,117,895,329,85,403577,96497,2.349459165,30231
+Female,PhD,Science,TikTok,Influencer,Fashion & Beauty,36,26,201,576,240,69,396169,53872,2.22646411,32197
+Male,Bachelor's,Other,Pinterest,Personal,Education,32,26,195,1221,179,104,503149,91072,2.584686392,41663
+Male,Master's,Arts,YouTube,Influencer,Education,24,17,164,805,189,68,434221,63504,2.110731719,21594
+Female,Bachelor's,Other,YouTube,Influencer,Art (Drawing),37,31,288,1280,294,128,609725,110886,2.845246701,54569
+Male,None,Engineering,Twitter,Personal,Gaming,32,13,130,614,151,62,269601,28528,1.597848709,11370
+Male,Master's,Engineering,Pinterest,Business,Fashion & Beauty,36,43,261,1040,438,102,607058,128380,2.971895475,57004
+Male,PhD,Arts,Twitter,Personal,Education,35,33,170,1167,301,128,600755,134353,2.947743494,61958
+Male,PhD,Arts,Pinterest,Personal,Gaming,23,34,186,1461,572,162,759149,173330,3.638635437,92736
+Male,PhD,Business,YouTube,Influencer,Gaming,25,24,236,1193,513,145,694342,140636,3.269401577,76815
+Male,High School,Science,Twitter,Influencer,Art (Drawing),35,10,134,533,177,77,401890,47741,1.871087292,16101
+Male,Master's,Science,TikTok,Business,Gaming,34,13,18,441,0,84,322340,72250,1.721196616,19271
+Male,Master's,Science,Pinterest,Influencer,Gaming,29,0,0,0,0,18,87623,18824,0.752215977,10000
+Male,High School,Engineering,YouTube,Business,Travel,30,0,8,0,0,0,33319,1000,0.760352727,10000
+Female,Master's,Science,Instagram,Business,Art (Drawing),40,19,179,532,296,89,465087,72150,2.322807597,32248
+Female,High School,Business,Pinterest,Business,Art (Drawing),25,25,127,942,190,111,522026,117487,2.621313835,52817
+Female,Bachelor's,Business,Pinterest,Business,Fashion & Beauty,34,9,61,643,205,54,315109,66360,1.966651846,22128
+Female,None,Science,TikTok,Influencer,Gaming,28,21,101,516,177,98,484316,95146,2.331142723,29547
+Female,PhD,Arts,Pinterest,Personal,Fashion & Beauty,28,24,186,811,58,68,409254,74424,2.236311308,38075
+Male,High School,Business,Pinterest,Personal,Education,38,30,152,603,298,60,337808,57401,2.112975188,30747
+Male,High School,Arts,TikTok,Influencer,Gaming,36,53,277,1891,641,212,868096,159845,4.173328773,113805
+Female,High School,Engineering,TikTok,Influencer,Education,36,15,182,1179,263,101,480012,90463,2.566876247,29694
+Female,Bachelor's,Business,Twitter,Business,Travel,40,40,243,1321,330,150,688229,127583,3.107085505,59411
+Male,High School,Arts,YouTube,Influencer,Gaming,30,16,118,922,247,109,463587,92620,2.385568474,53322
+Female,None,Science,YouTube,Personal,Fashion & Beauty,35,9,0,156,81,15,156272,20342,1.164453355,10000
+Male,None,Engineering,Twitter,Influencer,Fashion & Beauty,27,18,82,428,217,68,388696,53719,2.004075413,23476
+Female,PhD,Other,YouTube,Influencer,Gaming,32,30,251,1117,376,129,608213,88385,2.727499674,35483
+Male,Bachelor's,Other,Pinterest,Business,Fashion & Beauty,28,9,45,220,0,12,140766,14849,0.999551576,10000
+Female,None,Science,Twitter,Business,Gaming,30,29,227,1445,447,147,618697,135922,2.947616642,78427
+Male,Master's,Engineering,Twitter,Business,Art (Drawing),34,36,210,1329,424,118,719848,148089,3.510965236,86285
+Female,Master's,Engineering,YouTube,Business,Fashion & Beauty,23,17,195,1063,266,108,544502,95192,2.618399582,40954
+Female,Master's,Engineering,Instagram,Personal,Gaming,46,25,177,438,127,14,262445,46920,1.660244834,22323
+Male,High School,Engineering,YouTube,Influencer,Gaming,21,23,183,1023,408,123,518566,107180,2.681016703,68755
+Male,High School,Other,Instagram,Influencer,Fashion & Beauty,20,25,242,1620,518,176,786260,161709,3.603670803,89477
+Female,Master's,Arts,Twitter,Business,Art (Drawing),39,16,157,929,130,79,341358,65277,2.151023382,23776
+Female,PhD,Engineering,Instagram,Personal,Fashion & Beauty,36,38,169,1416,629,142,785216,158968,3.491143376,86760
+Male,PhD,Arts,Pinterest,Personal,Gaming,34,40,217,1492,381,104,610551,128727,3.20915061,85178
+Male,High School,Engineering,TikTok,Influencer,Art (Drawing),35,16,149,821,225,59,397253,65281,2.101200048,26311
+Male,Master's,Business,Instagram,Business,Education,29,11,191,586,235,57,306261,85498,2.23285385,45243
+Female,PhD,Business,TikTok,Influencer,Travel,22,22,79,417,171,40,271785,37190,1.692545733,39137
+Female,High School,Business,Pinterest,Influencer,Fashion & Beauty,30,30,218,1668,542,149,764695,138970,3.538441251,72713
+Male,Master's,Engineering,TikTok,Personal,Gaming,24,26,173,1072,346,104,560229,79344,2.657501103,56174
+Female,Bachelor's,Arts,Pinterest,Personal,Art (Drawing),37,9,140,821,118,94,330394,77838,2.054305695,40415
+Female,Master's,Other,TikTok,Influencer,Art (Drawing),28,24,170,822,152,74,440102,82887,2.281785886,35283
+Male,Master's,Science,TikTok,Business,Education,23,34,198,1439,353,138,576450,136076,3.141063701,66647
+Female,None,Other,YouTube,Business,Fashion & Beauty,27,32,264,1019,451,106,507304,91354,2.754278861,47601
+Male,None,Engineering,Instagram,Influencer,Art (Drawing),33,36,268,1621,490,149,682232,150370,3.457725166,91566
+Male,Bachelor's,Business,TikTok,Influencer,Education,25,17,98,865,210,71,437580,87652,2.322646118,44691
+Female,Bachelor's,Business,Twitter,Business,Gaming,23,29,184,970,234,83,410106,62230,2.264365478,44941
+Female,Master's,Arts,YouTube,Business,Education,31,8,108,0,0,0,23591,1000,0.615447051,10000
+Male,PhD,Engineering,Instagram,Business,Fashion & Beauty,31,27,245,1293,404,179,615412,131647,3.211061179,65644
+Male,Bachelor's,Other,YouTube,Influencer,Education,25,15,113,518,214,47,344929,67571,1.830952446,15931
+Male,Master's,Engineering,Instagram,Personal,Art (Drawing),26,27,292,1522,394,115,666636,134271,3.311001557,82392
+Female,High School,Engineering,Pinterest,Business,Art (Drawing),31,19,59,440,131,75,359488,67978,1.752436318,23181
+Male,None,Business,TikTok,Business,Travel,18,33,217,1189,398,141,615991,131498,3.013410051,67047
+Male,PhD,Other,Twitter,Business,Education,18,21,91,371,127,46,328395,60900,1.80676387,22478
+Male,Master's,Science,YouTube,Influencer,Gaming,24,26,236,1423,382,134,624263,115824,3.156296859,76731
+Male,High School,Business,YouTube,Personal,Fashion & Beauty,28,26,173,634,177,73,393615,68875,2.118527212,38652
+Female,None,Other,YouTube,Personal,Travel,32,14,150,328,162,15,318597,20740,1.811349497,19647
+Female,High School,Arts,YouTube,Business,Education,41,37,207,1801,543,166,745465,145602,3.741989369,89728
+Male,Master's,Business,TikTok,Influencer,Gaming,36,14,56,213,0,0,133186,1000,1.016497191,10000
+Female,Bachelor's,Arts,Instagram,Personal,Travel,28,28,144,1033,366,117,600879,157169,3.088720727,63891
+Female,None,Business,TikTok,Influencer,Art (Drawing),29,34,229,1590,283,140,772506,196513,3.670844695,92285
+Female,High School,Engineering,Pinterest,Personal,Fashion & Beauty,21,27,130,881,291,106,393574,81372,2.362203374,47751
+Male,Bachelor's,Other,TikTok,Business,Education,29,31,249,1342,396,85,653450,147693,3.191079963,76395
+Female,PhD,Arts,TikTok,Influencer,Gaming,27,12,222,601,120,71,295194,67648,1.942069264,16511
+Female,Master's,Business,Pinterest,Business,Art (Drawing),32,23,206,1282,317,91,486764,82668,2.732714327,60391
+Male,Master's,Arts,TikTok,Personal,Travel,23,25,108,1169,262,130,584069,122968,2.940438283,72027
+Male,None,Business,Instagram,Personal,Fashion & Beauty,34,24,167,800,205,65,415794,92995,2.157040757,30510
+Female,High School,Business,Twitter,Business,Travel,42,51,291,1702,507,164,828937,174169,3.72344607,103576
+Female,PhD,Science,Pinterest,Personal,Travel,29,31,173,1157,430,108,616021,105017,3.135479168,66706
+Male,None,Science,YouTube,Business,Gaming,33,20,153,654,193,73,320627,89110,2.135159859,41155
+Male,None,Science,Instagram,Business,Art (Drawing),35,35,249,1537,492,185,780407,165300,3.604553191,88599
+Male,High School,Arts,Twitter,Business,Education,26,15,122,493,114,48,289948,40155,1.739949332,21127
+Male,PhD,Engineering,Instagram,Personal,Gaming,31,38,255,1733,406,145,701789,129942,3.197467664,59183
+Female,High School,Business,Instagram,Influencer,Fashion & Beauty,30,20,71,402,312,90,457012,89971,2.332421327,39540
+Male,Master's,Other,YouTube,Business,Travel,30,15,63,586,164,61,325582,50926,1.8811865,16667
+Female,Bachelor's,Science,Twitter,Influencer,Fashion & Beauty,23,31,262,1178,408,131,595040,102493,2.997460025,63780
+Female,Master's,Arts,Instagram,Personal,Gaming,30,9,92,456,220,18,212163,47518,1.433648885,10000
+Female,Master's,Arts,YouTube,Personal,Gaming,33,29,164,1098,278,102,464731,108904,2.603174546,49350
+Male,None,Arts,Pinterest,Influencer,Education,41,13,59,6,63,27,88464,1000,0.983630415,10000
+Male,Master's,Other,YouTube,Business,Travel,37,33,108,724,333,87,562961,66058,2.696744472,69839
+Female,PhD,Other,TikTok,Personal,Gaming,47,35,147,1114,347,128,629801,142697,3.112604359,60400
+Female,Master's,Science,YouTube,Business,Fashion & Beauty,23,36,292,1426,441,138,636307,133496,3.236801645,91206
+Female,PhD,Other,YouTube,Business,Education,36,16,79,481,226,75,394415,77994,2.024971902,34779
+Female,High School,Science,YouTube,Influencer,Fashion & Beauty,31,11,117,465,88,70,317610,59128,1.792423788,28202
+Female,None,Other,Instagram,Personal,Travel,47,5,103,400,106,72,233241,82820,1.773641654,14092
+Male,PhD,Other,Twitter,Influencer,Education,23,25,34,453,211,41,207469,37670,1.585023293,21362
+Male,Master's,Other,YouTube,Personal,Education,23,28,211,801,325,97,542690,101631,2.720293157,33800
+Male,None,Science,YouTube,Influencer,Education,25,21,153,815,247,82,416042,71983,2.241855897,26787
+Female,None,Business,TikTok,Personal,Art (Drawing),13,0,0,0,118,15,65564,4428,1.045863825,10000
+Female,PhD,Science,TikTok,Personal,Education,25,27,235,944,460,127,514969,117316,2.699174748,56082
+Male,PhD,Business,Pinterest,Personal,Fashion & Beauty,23,6,117,624,160,47,322931,69766,1.790323505,34282
+Male,Bachelor's,Arts,Pinterest,Business,Fashion & Beauty,31,18,216,1043,195,150,487856,70197,2.649456253,63133
+Female,Bachelor's,Arts,TikTok,Business,Travel,32,9,22,140,65,76,300743,44862,1.607466723,30847
+Male,None,Science,Twitter,Influencer,Gaming,45,31,296,1703,442,187,654533,190989,3.603614902,90754
+Male,Bachelor's,Business,Pinterest,Influencer,Gaming,37,13,161,710,338,80,362568,51512,1.921709536,34418
+Male,Master's,Business,Twitter,Personal,Art (Drawing),25,30,223,1018,313,110,552581,108564,2.718332863,69750
+Female,High School,Business,TikTok,Personal,Education,22,34,237,1394,419,101,550211,117050,3.034344192,67475
+Female,None,Arts,Pinterest,Business,Art (Drawing),33,26,205,1048,283,62,506933,93395,2.586827368,57478
+Male,High School,Science,YouTube,Business,Travel,19,17,84,825,351,105,425372,62876,2.321015891,48097
+Female,Bachelor's,Engineering,TikTok,Business,Travel,44,21,179,1038,289,126,548825,104964,2.750026152,65780
+Male,PhD,Business,Pinterest,Influencer,Gaming,39,23,258,832,349,69,449958,112214,2.507521741,54385
+Male,None,Business,Twitter,Business,Travel,26,33,343,2092,670,211,932443,212650,4.352599786,112414
+Female,Bachelor's,Engineering,Twitter,Influencer,Education,16,11,61,145,195,0,103169,31419,1.186695761,10000
+Female,Master's,Science,Pinterest,Business,Fashion & Beauty,40,32,254,1979,451,165,877701,205227,4.025730822,89607
+Female,None,Business,Twitter,Business,Travel,29,30,224,1272,360,111,551305,123994,2.845333859,55932
+Male,None,Science,Pinterest,Personal,Art (Drawing),39,12,163,830,223,53,338765,50997,1.959382624,21637
+Male,PhD,Business,Pinterest,Influencer,Education,17,29,187,1370,386,152,641952,128768,3.168447902,58637
+Male,None,Other,Twitter,Business,Travel,25,16,205,461,200,77,364257,60441,2.016507679,26105
+Female,PhD,Business,Instagram,Personal,Travel,30,28,275,1140,443,145,587378,84520,3.080503872,67648
+Male,Bachelor's,Other,YouTube,Influencer,Education,30,18,169,1059,493,136,603027,113731,3.086212349,60226
+Male,Master's,Science,TikTok,Influencer,Travel,26,8,49,702,159,78,253994,69393,1.610158955,23151
+Male,Master's,Business,YouTube,Business,Fashion & Beauty,34,33,213,1837,392,160,693563,158371,3.511421084,75343
+Male,None,Arts,TikTok,Influencer,Gaming,21,0,107,131,31,41,66099,27987,0.881205629,10000
+Female,None,Arts,TikTok,Personal,Education,28,4,153,425,142,13,208024,4220,1.447363349,12667
+Female,Bachelor's,Engineering,YouTube,Personal,Art (Drawing),30,5,120,287,148,24,260330,11206,1.403954679,10000
+Female,PhD,Arts,Pinterest,Influencer,Travel,34,40,217,1841,315,125,657718,152809,3.53080545,83442
+Male,Master's,Other,Twitter,Personal,Gaming,35,25,160,1015,340,122,570144,113562,2.749567577,37526
+Male,PhD,Arts,Instagram,Influencer,Art (Drawing),21,49,279,2149,523,207,884109,229612,4.408900628,103163
+Male,Bachelor's,Arts,Instagram,Personal,Art (Drawing),17,24,164,814,156,59,359879,73782,2.059873207,39787
+Female,Master's,Arts,Instagram,Influencer,Fashion & Beauty,40,37,219,1672,540,170,800919,195404,3.723037676,101179
+Female,Master's,Business,YouTube,Influencer,Gaming,32,23,123,562,0,42,330797,59313,2.004903756,18301
+Female,High School,Engineering,YouTube,Influencer,Education,24,36,192,1188,300,111,585005,122761,2.883710255,54926
+Female,Bachelor's,Science,Pinterest,Personal,Gaming,42,10,97,539,153,50,277897,9502,1.594124965,24120
+Female,Bachelor's,Engineering,Instagram,Influencer,Gaming,30,41,193,1226,345,128,623517,140578,3.140860634,83520
+Male,High School,Other,Pinterest,Influencer,Art (Drawing),39,29,135,1017,249,120,507909,119511,2.845155633,55903
+Female,PhD,Business,Instagram,Business,Fashion & Beauty,30,18,168,801,346,124,458874,74718,2.682235243,42512
+Female,High School,Business,YouTube,Business,Fashion & Beauty,46,5,50,22,0,4,128840,12353,1.106659359,10000
+Female,Bachelor's,Arts,Twitter,Influencer,Gaming,44,32,244,1185,418,129,548614,129348,2.950811546,58099
+Male,PhD,Arts,Twitter,Business,Gaming,28,21,165,659,217,87,420440,83020,2.272425252,44136
+Female,Master's,Other,Twitter,Influencer,Travel,37,25,180,843,251,102,478355,98853,2.460455082,46767
+Female,High School,Business,Twitter,Business,Art (Drawing),35,33,215,1564,463,159,698882,146211,3.387014052,85415
+Female,PhD,Science,TikTok,Personal,Education,40,16,161,413,80,51,313984,37546,1.655039329,20481
+Male,PhD,Engineering,Instagram,Personal,Education,22,2,119,127,66,4,112491,32224,1.227070899,10000
+Male,PhD,Business,Twitter,Influencer,Fashion & Beauty,35,20,178,944,338,93,501482,94293,2.372352296,39817
+Female,High School,Science,TikTok,Influencer,Art (Drawing),38,44,291,1971,568,165,918245,191796,4.283323341,104886
+Female,Master's,Science,TikTok,Personal,Fashion & Beauty,15,35,262,1615,521,145,804246,192855,3.761762981,110088
+Female,PhD,Engineering,TikTok,Personal,Education,20,19,26,494,297,57,372924,46615,1.762077738,13058
+Female,High School,Science,Pinterest,Business,Gaming,13,19,196,972,241,105,486051,104493,2.539792119,46637
+Male,Bachelor's,Other,Pinterest,Influencer,Art (Drawing),27,8,32,524,121,50,243927,18794,1.541441513,10332
+Female,High School,Science,TikTok,Personal,Art (Drawing),35,27,260,1048,182,95,498589,109034,2.608900173,55031
+Male,High School,Other,Twitter,Personal,Travel,42,53,429,2518,680,256,1002928,221149,4.985302963,136994
+Female,High School,Science,Instagram,Influencer,Gaming,30,23,138,908,125,83,445202,83340,2.326906601,52821
+Male,PhD,Arts,YouTube,Business,Gaming,43,22,155,935,326,80,445037,132575,2.535608541,49094
+Male,High School,Science,Pinterest,Business,Fashion & Beauty,18,35,195,944,315,101,600321,93877,2.807542652,64067
+Female,Bachelor's,Other,Twitter,Business,Art (Drawing),16,32,123,823,267,118,403027,92184,2.427654059,26976
+Male,PhD,Science,Twitter,Business,Fashion & Beauty,29,16,224,662,164,83,365928,84517,2.115630762,41878
+Female,Bachelor's,Science,YouTube,Personal,Gaming,33,27,182,1212,375,118,509426,96114,2.712796036,46153
+Male,None,Science,YouTube,Influencer,Travel,29,21,237,712,280,100,479867,101056,2.342061494,35206
+Male,High School,Other,Twitter,Influencer,Art (Drawing),13,29,174,1398,479,85,655781,136166,3.209061425,68284
+Female,PhD,Science,YouTube,Personal,Gaming,29,24,161,963,351,103,479681,94791,2.565338127,50427
+Female,PhD,Engineering,Twitter,Personal,Travel,19,36,210,1105,384,111,578169,97821,2.961203593,70150
+Male,High School,Engineering,YouTube,Personal,Education,35,17,142,560,94,88,289055,52197,1.7222829,37933
+Male,Master's,Other,YouTube,Influencer,Gaming,32,33,283,557,190,76,395709,67213,2.094614694,29616
+Female,Master's,Arts,Twitter,Influencer,Education,22,23,133,261,237,67,258614,80438,1.85521909,12839
+Female,Bachelor's,Engineering,TikTok,Influencer,Fashion & Beauty,25,20,165,1219,399,123,556885,115108,2.854602042,55947
+Female,High School,Business,Twitter,Business,Education,21,16,168,693,165,32,352306,74973,1.874689309,24755
+Male,High School,Engineering,Instagram,Personal,Gaming,29,7,128,372,112,42,219668,40599,1.567320099,10000
+Female,None,Business,YouTube,Personal,Education,37,35,306,1668,638,236,881965,190639,4.169736197,104605
+Female,Master's,Other,Pinterest,Personal,Art (Drawing),22,8,71,347,271,40,411933,47001,1.849214721,19653
+Male,Master's,Arts,YouTube,Influencer,Gaming,34,16,150,1275,377,94,600450,87004,2.728815465,58227
+Female,High School,Business,Instagram,Personal,Travel,25,13,107,354,263,22,200430,31414,1.4691159,26216
+Female,Bachelor's,Business,Pinterest,Personal,Education,23,37,349,1826,598,180,781553,198849,4.059989752,100776
+Female,High School,Engineering,Pinterest,Business,Art (Drawing),29,17,98,162,35,74,191560,26754,1.537993486,15633
+Female,Bachelor's,Business,Twitter,Influencer,Fashion & Beauty,21,47,349,2369,588,222,1048365,218136,4.91485203,127227
+Male,Master's,Other,TikTok,Personal,Fashion & Beauty,25,49,248,2301,593,160,883334,201642,4.201869704,113603
+Female,None,Other,Twitter,Influencer,Education,20,24,83,787,173,73,374611,69894,2.252304637,35546
+Female,PhD,Other,Pinterest,Influencer,Fashion & Beauty,45,22,144,930,302,90,502956,85978,2.48637547,54557
+Female,Master's,Engineering,Pinterest,Influencer,Travel,30,30,210,1072,280,99,562683,121582,2.692341771,59892
+Female,Bachelor's,Arts,TikTok,Business,Gaming,24,33,237,1137,293,119,549817,115543,2.926451271,70757
+Female,High School,Engineering,YouTube,Influencer,Art (Drawing),31,29,234,687,340,68,443413,115017,2.494076584,48511
+Female,Master's,Other,TikTok,Influencer,Education,29,34,323,1357,383,144,655241,127312,3.229049307,75366
+Male,None,Engineering,Twitter,Influencer,Fashion & Beauty,28,30,116,1141,284,93,580795,129757,2.82859855,65877
+Male,Bachelor's,Other,YouTube,Personal,Gaming,34,17,261,660,233,100,431324,88183,2.364623619,27225
+Male,High School,Science,Twitter,Business,Travel,36,18,131,770,291,78,476557,98269,2.383860308,42638
+Female,PhD,Science,TikTok,Personal,Fashion & Beauty,25,16,172,282,63,24,344447,41895,1.529537539,15830
+Female,Bachelor's,Business,YouTube,Business,Fashion & Beauty,25,33,191,1335,454,173,741072,143864,3.380150995,75328
+Female,High School,Arts,TikTok,Business,Art (Drawing),27,19,11,732,126,25,353124,43603,1.936862736,41191
+Male,PhD,Science,Instagram,Influencer,Travel,11,16,49,379,100,0,192444,1000,1.264767021,10000
+Female,High School,Other,Pinterest,Influencer,Travel,17,27,224,1171,309,127,558221,137432,2.913589461,46260
+Male,PhD,Engineering,YouTube,Personal,Education,40,34,121,1597,441,159,762329,149382,3.556314768,78746
+Female,PhD,Engineering,Pinterest,Business,Art (Drawing),43,34,147,1080,386,90,563907,110821,3.082444585,50221
+Female,PhD,Business,Instagram,Influencer,Education,28,19,40,916,286,90,498552,103024,2.456525085,59675
+Male,High School,Engineering,YouTube,Influencer,Art (Drawing),34,37,156,1888,662,188,840883,199580,3.993756975,109080
+Male,PhD,Science,Pinterest,Influencer,Travel,32,30,226,972,300,64,573978,102625,2.672998204,51510
+Male,Bachelor's,Engineering,Pinterest,Influencer,Art (Drawing),54,29,223,976,275,88,495413,95428,2.520810338,53652
+Male,None,Science,YouTube,Personal,Art (Drawing),38,28,179,1276,225,113,466680,86725,2.74872537,50055
+Male,None,Science,Pinterest,Personal,Art (Drawing),28,14,148,732,191,58,385892,75484,2.104876881,40402
+Male,PhD,Arts,Pinterest,Influencer,Gaming,22,23,145,1160,367,80,510293,93108,2.535668548,31509
+Female,None,Business,YouTube,Influencer,Gaming,17,19,190,948,213,63,391817,75379,2.18687365,44929
+Male,None,Other,Pinterest,Influencer,Travel,31,40,242,1294,383,107,579248,113307,3.062448847,78828
+Female,PhD,Science,Pinterest,Influencer,Art (Drawing),23,24,109,522,161,73,345097,51978,1.914352278,28889
+Female,PhD,Business,Twitter,Influencer,Travel,18,24,122,757,292,72,448800,93289,2.414017503,39577
+Female,Bachelor's,Other,Twitter,Business,Gaming,24,28,177,920,286,87,589102,90852,2.799167813,59433
+Female,Master's,Engineering,Instagram,Business,Art (Drawing),21,32,165,1377,336,173,719352,144373,3.392671572,82371
+Female,High School,Business,Twitter,Business,Education,43,8,122,507,44,51,332661,37735,1.569544144,21168
+Male,PhD,Business,Twitter,Business,Gaming,37,35,311,1778,571,190,905728,200474,4.139806057,108657
+Male,PhD,Business,Instagram,Influencer,Gaming,29,48,299,1967,651,166,817725,195501,3.975646238,107350
+Male,None,Engineering,Pinterest,Business,Gaming,41,29,208,1262,406,117,713180,123275,3.273505224,62970
+Female,Bachelor's,Engineering,Pinterest,Business,Art (Drawing),30,36,206,1737,489,148,721299,134299,3.57303474,75459
+Male,None,Business,Twitter,Personal,Fashion & Beauty,23,29,306,1385,447,149,682821,170121,3.395035226,71098
+Female,PhD,Arts,Instagram,Business,Education,42,18,100,503,72,94,279921,48239,1.988658588,33463
+Female,PhD,Science,Pinterest,Business,Education,34,35,223,1276,425,128,605681,142527,3.144773944,73811
+Female,None,Engineering,TikTok,Influencer,Travel,21,41,286,1420,477,146,588008,126621,3.131248391,67112
+Female,PhD,Arts,YouTube,Business,Art (Drawing),28,11,93,428,171,35,217850,21169,1.461983269,10000
+Male,Master's,Engineering,YouTube,Business,Gaming,22,16,216,539,288,74,473435,99006,2.42291722,46124
+Male,High School,Business,YouTube,Influencer,Fashion & Beauty,18,15,130,928,222,85,408434,87377,2.26329955,34092
