@@ -1,0 +1,6 @@
+Campaign_ID,Budget,Duration,Platform,Content_Type,Target_Age,Target_Gender,Region,Clicks,Conversions,CTR,CPC,Conversion_Rate,Success
+CAMP-XAJI0Y,15895,39,Instagram,Video,35-44,Female,US,48297,2116,303.85,0.3291,4.38,1
+CAMP-6DPBHS,960,8,LinkedIn,Video,45-54,Female,UK,15097,2340,1572.6,0.0636,15.5,1
+CAMP-AHXTHV,38258,54,YouTube,Image,35-44,All,US,8134,2740,21.26,4.703,33.69,1
+CAMP-3A3ZMF,44832,28,Facebook,Text,25-34,Female,US,21801,4277,48.63,2.056,19.62,1
+CAMP-8MDD4V,11384,36,Google,Story,18-24,All,UK,16503,1488,144.97,0.6898,9.02,1
