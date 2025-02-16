@@ -1,4 +1,4 @@
-Remote_Work,Has_Health_Benefits,Department,Job_Level,Avg_Weekly_Work_Hours,Employee_Satisfaction_Score,Stress_Level,Performance_Score,Project_Deadlines_Met (%),Num_Projects_Completed
+Remote_Work,Has_Health_Benefits,Department,Job_Level,Avg_Weekly_Work_Hours,Avg_Employee_Satisfaction_Score,Avg_Stress_Level,Performance_Score,Project_Deadlines_Met (%),Num_Annual_Projects_Completed
 0,0,HR,Senior-Level,39.8892980312461,5.888719537505389,45.09474023585344,53.100663149180136,53.923866764337205,3
 1,1,Finance,Senior-Level,34.48217780748661,6.24608220054442,46.79814830974343,60.49215057350209,60.943720190208175,7
 1,1,Finance,Senior-Level,36.05501742080183,4.945963495281003,57.44298781044974,37.957472966680754,41.654700258420796,2
